@@ -1,7 +1,7 @@
 # OTQuAD
 Opioid Therapy Question Answering Dataset
 
-This repo contains the questioon answering dataset on VA/DoD clinical practice guideline for opioid therapy for chronic pain
+This repo contains the question answering dataset on VA/DoD clinical practice guideline for opioid therapy for chronic pain
 
 The resources used to make this dataset are:
 
