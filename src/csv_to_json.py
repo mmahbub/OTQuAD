@@ -8,7 +8,7 @@ from pathlib import Path
 from tqdm import tqdm
 
 data_path     = Path('../data/')
-csv_file_path = Path('../data/otquad-v1.0.csv')
+csv_file_path = Path('../data/otquad-v1.0 - Sheet1.csv')
 
 df = pd.read_csv(csv_file_path)
 
@@ -16,9 +16,9 @@ start_index = [df['context'].values[i].lower().find(df['answer'].values[i].lower
 df['start_index'] = start_index
 
 for i in range(len(df)):
-    print(i, start_index[i])
-    print('Original : ',df['answer'].values[i].lower())
-    print('Extracted: ', df['context'].values[i].lower()[start_index[i]:start_index[i]+len(df['answer'].values[i])])
+#     print(i, start_index[i])
+#     print('Original : ',df['answer'].values[i].lower())
+#     print('Extracted: ', df['context'].values[i].lower()[start_index[i]:start_index[i]+len(df['answer'].values[i])])
     assert df['answer'].values[i].lower() == df['context'].values[i].lower()[start_index[i]:start_index[i]+len(df['answer'].values[i])]
     
     
