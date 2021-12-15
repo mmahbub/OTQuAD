@@ -1,0 +1,1510 @@
+{
+    "data": [
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "id": 0,
+                            "question": "What to consider for patients currently on long-term opioid therapy and benzodiazepines?",
+                            "answers": [
+                                {
+                                    "text": "consider tapering one or both when risks exceed benefits and obtaining specialty consultation as appropriate",
+                                    "answer_start": 150
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "We recommend against the concurrent use of benzodiazepines and opioids. Note: For patients currently on long-term opioid therapy and benzodiazepines, consider tapering one or both when risks exceed benefits and obtaining specialty consultation as appropriate. We recommend against long-term opioid therapy for patients less than 30 years of age secondary to higher risk of opioid use disorder and overdose. For patients less than 30 years of age currently on long-term opioid therapy, we recommend close monitoring and consideration for tapering when risks exceed benefits."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 1,
+                            "question": "What does opioid agonist treatment involve?",
+                            "answers": [
+                                {
+                                    "text": "taking opioid agonist medications",
+                                    "answer_start": 242
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Use a shared decision-making approach to discuss options for OUD treatment. Medication-Assisted Therapy (MAT) is the first-line treatment for OUD. The preferred OUD treatment is Opioid Agonist Therapy (OAT). Opioid agonist treatment involves taking opioid agonist medications such as buprenorphine/naloxone (Suboxone) or methadone. Methadone must be provided through a federally regulated opioid treatment program for OUD therapy. The alternative OUD treatment is extended-release (ER) injectable naltrexone (Vivitrol). MAT can be provided in a variety of treatment settings including residential SUD treatment, intensive outpatient SUD treatment, regular SUD specialty care clinic, primary care or general mental health clinic, or federally regulated opioid treatment program. Moral injury is an act of transgression that leads to serious inner conflict typically brought on by betrayal, disproportionate violence, incidents involving civilians, within-rank violence. For moral injury, treatment via psychologists or chaplains is available. Central sensitization (e .g., fibromyalgia, chronic headaches, and likely many other types of complex chronic pain). Some examples of medical complications are lung disease, hepatic disease, renal disease, or fall risk. Sleep apnea is a sleep disorder."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 2,
+                            "question": "If take-home opioids are prescribed, why is it recommended to have opioid therapy reassessment no later than 3-5 days?",
+                            "answers": [
+                                {
+                                    "text": "to determine if adjustments or continuing opioid therapy is indicated",
+                                    "answer_start": 368
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "We recommend alternatives to opioids for mild-to-moderate acute pain. We suggest use of multimodal pain care including non-opioid medications as indicated when opioids are used for acute pain. If take-home opioids are prescribed, we recommend that immediate-release opioids are used at the lowest effective dose with opioid therapy reassessment no later than 3-5 days to determine if adjustments or continuing opioid therapy is indicated. Note: Patient education about opioid risks and alternatives to opioid therapy should be offered."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 3,
+                            "question": "What should be done prior to any changes being made in opioid prescribing?",
+                            "answers": [
+                                {
+                                    "text": "a discussion should occur between the Veteran, family members/caregivers, and the provider either during a face-to-face appointment or on the telephone",
+                                    "answer_start": 173
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "When a decision is made to taper, special attention must be given to ensure that the Veteran does not feel abandoned. Prior to any changes being made in opioid prescribing, a discussion should occur between the Veteran, family members/caregivers, and the provider either during a face-to-face appointment or on the telephone. The strategies that will help in the transition are discussion, asking about goals, educating the veteran. Discussion includes listening to the Veteran\u2019s story, letting the Veteran know that you believe that their pain is real, using Motivational Interviewing (MI) techniques to acknowledge the Veteran\u2019s fears about tapering. Include family members or other supporters in the discussion. Asking about goals includes drawing out their goals for life, having the Veteran fill out the PHI, asking how we can support them during the taper. The drawn-out life goals should not be just being pain-free. PHI is the Personal Health Inventory.  "
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 4,
+                            "question": "From 2000 through 2010, what was the increment of the proportion of pain visits during which non-opioid pharmacologic therapies were prescribed?",
+                            "answers": [
+                                {
+                                    "text": "from 26% to 29%",
+                                    "answer_start": 163
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "From 2000 through 2010, the proportion of pain visits during which opioid and non-opioid pharmacologic therapies were prescribed increased from 11.3% to 19.6% and from 26% to 29%, respectively. In 2012, for every 100 persons in the United States (U.S.), 82.5 opioid prescriptions and 37.6 benzodiazepine prescriptions were written by healthcare providers. In the emergency department, at least 17% of discharges included prescriptions for opioids."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 5,
+                            "question": "Where to follow up with the Veteran during the slowest taper?",
+                            "answers": [
+                                {
+                                    "text": "in the clinic and/or over telephone",
+                                    "answer_start": 819
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Follow-up for tapering should be done with PACT Team. Follow-up for tapering is recommended to be a team function with various team members taking on roles in which they have demonstrated specific competencies. Mental health practitioners may need to be included in the follow-up plan. During the slowest taper, follow up with the Veteran 1 to 4 weeks after starting taper then monthly before each reduction. During the slower taper, follow up with the Veteran 1 to 4 weeks after starting taper then monthly before each reduction. During the faster taper, follow up with the Veteran weekly before each dose reduction. During the rapid taper, follow up with the Veteran daily before each dose reduction or if available offer inpatient admission. The follow-up during the slowest, slower, and faster tapering can be done in the clinic and/or over telephone. The follow-up during the rapid tapering can be done in the hospital, clinic or over telephone. Providers will need to determine whether a telephone or in-clinic appointment is appropriate based on the risk category of the Veteran. A Veteran with high risk due to a medical condition may have decompensation during the taper and may require a clinic visit over telephone follow-up. If there are issues with the Veteran obtaining outside prescriptions or they are displaying other aberrant behaviors during the taper, providing follow-up in a clinic visit may be more optimal than a telephone visit. Follow up on patient function, pain intensity, sleep, physical activity, personal goals, and stress level."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 6,
+                            "question": "When reducing 33% of morphine SR 90 mg Q8h = 270 MEDD on day 1, what dose should be taken on day seven of the rapid opioid tapering?",
+                            "answers": [
+                                {
+                                    "text": "15 mg SR Q12h",
+                                    "answer_start": 947
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Rapid Taper is done over days. Rapid tapers can cause withdrawal effects and patients should be treated with adjunctive medications to minimize these effects; may need to consider admitting the patient for inpatient care. If patients are prescribed both long-acting and short-acting opioids, the decision about which formulation to be tapered first should be individualized based on medical history, mental health diagnoses, and patient preference. Data shows that overdose risk is greater with long-acting preparations. In rapid taper, reduce opioid by 20 to 50% of first dose if needed, then reduce by 10 to 20% every day. An example of the rapid taper is given below. During the first day in the rapid taper, 33% reduction of morphine SR 90 mg Q8h = 270 MEDD consists of 60 mg SR (15 mg x 4) Q8h. The subsequent daily dosage for the rapid taper is 45 mg SR (15 mg x 3) Q8h for day 2, 30 mg SR (15 mg x 2) Q8h for day 3, 15 mg SR Q8h for day 4, 15 mg SR Q12h for day 5-7, 15 mg SR QHS for day 8-11. Stop rapid tapering after day 11 and may consider morphine IR 15 mg \u00bd tablet (7.5 mg) twice daily."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 7,
+                            "question": "What is the treatment option for sleep disturbance?",
+                            "answers": [
+                                {
+                                    "text": "Trazodone 25 to 300 mg orally at bedtime",
+                                    "answer_start": 638
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "The treatment options for anxiety, dysphoria, lacrimation, and rhinorrhea are hydroxyzine 25 to 50 mg three times a day as needed, diphenhydramine 25 mg every 6 hours as needed. Avoid diphenhydramine for Veterans older than 65 years. The treatment options for myalgias are NSAIDs (e.g., naproxen 375 to 500 mg twice daily or ibuprofen 400 to 600 mg four times daily), acetaminophen 650 mg every 6 hours as needed, topical medications like menthol/methylsalicylate cream, lidocaine cream/ointment. For NSAIDs, be cautious for patients with risk of GI bleed, renal compromise, cardiac disease. The treatment option for sleep disturbance is Trazodone 25 to 300 mg orally at bedtime."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 8,
+                            "question": "What percentage of people entering SUD treatment for heroin use started using heroin as their first opioid in the 1960s?",
+                            "answers": [
+                                {
+                                    "text": "80%",
+                                    "answer_start": 333
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Concurrent with the increase in prescription opioid use, the rate of heroin overdose deaths increased  nearly four-fold between 2000 and 2013. According to a survey of patients entering SUD treatment for  heroin use, the prescription opioid epidemic has resulted in a marked shift in how and which opioids are  abused. In the 1960s, 80% of people entering treatment for heroin use started using heroin as their first opioid, while in the 2000s, 75% of people entering treatment for heroin use started using prescription opioids as their first opioid. This increase in the use of opioids, as well as associated morbidity, mortality, and other adverse outcomes, has called attention to the need for a paradigm shift in pain and in the way it is treated. Consult the VA/DoD Clinical Practice Guideline for the Management of Substance Use Disorders (VA/DoD SUD CPG) for further information. "
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 9,
+                            "question": "Which factor can help identify non-adherence to a comprehensive pain care plan?",
+                            "answers": [
+                                {
+                                    "text": "attendance at appointments",
+                                    "answer_start": 1379
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Necessary risk mitigation strategies are OEND, UDT, PDMP, face-to-face follow-up with frequency determined by risk. Indications for tapering and discontinuation are as follows: risks of OT outweigh benefits, patient preference, diversion. Risks of opioid therapy outweigh benefits when there is lack of clinically meaningful improvement in function, concomitant use of medications that increase risk of overdose, co-occurring medical or mental health conditions that increase risk, concerns about OUD or other SUD, patient con-compliance with opioid safety measures and opioid risk mitigation strategies, patient non-participation in a comprehensive pain care plan, prescribed dose higher than the maximal recommended dose, pain condition not effectively treated with opioids (e.g., back pain with normal MRI; fibromyalgia), medical or mental health comorbidities that increase risk, improvement in the underlying pain condition being treated, unmanageable side effects. Factors that may indicate need for more frequent follow-up are non-adherence to comprehensive pain care plan, unexpected UDT and PDMP results, non-adherence to opioid prescription, higher risk medication characteristics, patients with mental health, medical, or SUD comorbidities that increase risk for adverse outcomes. A factor that can help identify non-adherence to a comprehensive pain care plan can be attendance at appointments. Examples of non-adherence to opioid prescription include using more than prescribed and/or running out late. Higher risk medication can be high-dose opioids, combination of opioids and benzodiazepines. MEDD refers to morphine equivalent daily dose; MRI refers to magnetic resonance imaging; OEND refers to Overdose Education and Naloxone Distribution."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 10,
+                            "question": "What is not first-line or routine therapy for chronic pain management?",
+                            "answers": [
+                                {
+                                    "text": "Opioids",
+                                    "answer_start": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Opioids are not first-line or routine therapy for chronic pain. Establish treatment goals before starting opioid therapy and a plan if therapy is discontinued. Only continue opioid if there is clinically meaningful improvement in pain and function. Discuss risks, benefits and responsibilities for managing therapy before starting and during treatment."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 11,
+                            "question": "How much research has there been on the effectiveness of LOT for non-end-of-life pain?",
+                            "answers": [
+                                {
+                                    "text": "limited",
+                                    "answer_start": 15
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "There has been limited research on the effectiveness of LOT for non-end-of-life pain. At the same time, there is mounting evidence of the ill effects of LOT, including increased mortality, OUD, overdose, sexual dysfunction, fractures, myocardial infarction, constipation, and sleep-disordered breathing. Despite increasing awareness of the known harms of opioids, 259 million opioid prescriptions were still written in 2012."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 12,
+                            "question": "What are the necessary risk mitigation strategies?",
+                            "answers": [
+                                {
+                                    "text": "OEND, UDT, PDMP, face-to-face follow-up with frequency determined by risk",
+                                    "answer_start": 41
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Necessary risk mitigation strategies are OEND, UDT, PDMP, face-to-face follow-up with frequency determined by risk. Indications for tapering and discontinuation are as follows: risks of OT outweigh benefits, patient preference, diversion. Risks of opioid therapy outweigh benefits when there is lack of clinically meaningful improvement in function, concomitant use of medications that increase risk of overdose, co-occurring medical or mental health conditions that increase risk, concerns about OUD or other SUD, patient con-compliance with opioid safety measures and opioid risk mitigation strategies, patient non-participation in a comprehensive pain care plan, prescribed dose higher than the maximal recommended dose, pain condition not effectively treated with opioids (e.g., back pain with normal MRI; fibromyalgia), medical or mental health comorbidities that increase risk, improvement in the underlying pain condition being treated, unmanageable side effects. Factors that may indicate need for more frequent follow-up are non-adherence to comprehensive pain care plan, unexpected UDT and PDMP results, non-adherence to opioid prescription, higher risk medication characteristics, patients with mental health, medical, or SUD comorbidities that increase risk for adverse outcomes. A factor that can help identify non-adherence to a comprehensive pain care plan can be attendance at appointments. Examples of non-adherence to opioid prescription include using more than prescribed and/or running out late. Higher risk medication can be high-dose opioids, combination of opioids and benzodiazepines. MEDD refers to morphine equivalent daily dose; MRI refers to magnetic resonance imaging; OEND refers to Overdose Education and Naloxone Distribution."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 13,
+                            "question": "When do risks of opioid therapy outweigh benefits?",
+                            "answers": [
+                                {
+                                    "text": "when there is lack of clinically meaningful improvement in function, concomitant use of medications that increase risk of overdose, co-occurring medical or mental health conditions that increase risk, concerns about OUD or other SUD, patient con-compliance with opioid safety measures and opioid risk mitigation strategies, patient non-participation in a comprehensive pain care plan, prescribed dose higher than the maximal recommended dose, pain condition not effectively treated with opioids (e.g., back pain with normal MRI; fibromyalgia), medical or mental health comorbidities that increase risk, improvement in the underlying pain condition being treated, unmanageable side effects",
+                                    "answer_start": 281
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Necessary risk mitigation strategies are OEND, UDT, PDMP, face-to-face follow-up with frequency determined by risk. Indications for tapering and discontinuation are as follows: risks of OT outweigh benefits, patient preference, diversion. Risks of opioid therapy outweigh benefits when there is lack of clinically meaningful improvement in function, concomitant use of medications that increase risk of overdose, co-occurring medical or mental health conditions that increase risk, concerns about OUD or other SUD, patient con-compliance with opioid safety measures and opioid risk mitigation strategies, patient non-participation in a comprehensive pain care plan, prescribed dose higher than the maximal recommended dose, pain condition not effectively treated with opioids (e.g., back pain with normal MRI; fibromyalgia), medical or mental health comorbidities that increase risk, improvement in the underlying pain condition being treated, unmanageable side effects. Factors that may indicate need for more frequent follow-up are non-adherence to comprehensive pain care plan, unexpected UDT and PDMP results, non-adherence to opioid prescription, higher risk medication characteristics, patients with mental health, medical, or SUD comorbidities that increase risk for adverse outcomes. A factor that can help identify non-adherence to a comprehensive pain care plan can be attendance at appointments. Examples of non-adherence to opioid prescription include using more than prescribed and/or running out late. Higher risk medication can be high-dose opioids, combination of opioids and benzodiazepines. MEDD refers to morphine equivalent daily dose; MRI refers to magnetic resonance imaging; OEND refers to Overdose Education and Naloxone Distribution."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 14,
+                            "question": "What happened concurrently with the transformation in pain care?",
+                            "answers": [
+                                {
+                                    "text": "A paradigm shift in the use of OT for chronic non-terminal pain",
+                                    "answer_start": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "A paradigm shift in the use of OT for chronic non-terminal pain has paralleled this transformation in pain  care. Prior to the 1980s, OT was rarely used outside of severe acute injury or post-surgical pain, primarily due to concern for tolerance, physical dependence, and addiction. As the hospice and palliative care  movement began defining end-of-life care in the U.S. during the 1980s and emphasizing the importance of  pain relief, OT increasingly became a mainstay for cancer and end-of-life pain. Efforts to destigmatize the use of prescription opioids for chronic non-terminal pain encompassed primary care providers and the  public. The efforts led to an unprecedented increase in opioid prescribing for chronic non-terminal pain.  Chronic pain management became synonymous with LOT in the 1990s and the first decade of the 2000s  with significant numbers of patients in pain clinics receiving LOT. Despite the absence of long-term safety or efficacy data, OT for chronic non-terminal pain became a mainstay of therapy. However, as observational and epidemiologic data of harm from LOT accumulated, a much more cautious approach to  OT for chronic non-terminal pain has emerged in the decade of the 2010s."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 15,
+                            "question": "How many opioid prescriptions were written in 2012 in spite of increasing awareness of the known harms of opioids?",
+                            "answers": [
+                                {
+                                    "text": "259 million",
+                                    "answer_start": 364
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "There has been limited research on the effectiveness of LOT for non-end-of-life pain. At the same time, there is mounting evidence of the ill effects of LOT, including increased mortality, OUD, overdose, sexual dysfunction, fractures, myocardial infarction, constipation, and sleep-disordered breathing. Despite increasing awareness of the known harms of opioids, 259 million opioid prescriptions were still written in 2012."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 16,
+                            "question": "What are the adverse effects of LOT?",
+                            "answers": [
+                                {
+                                    "text": "increased mortality, OUD, overdose, sexual dysfunction, fractures, myocardial infarction, constipation, and sleep-disordered breathing",
+                                    "answer_start": 168
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "There has been limited research on the effectiveness of LOT for non-end-of-life pain. At the same time, there is mounting evidence of the ill effects of LOT, including increased mortality, OUD, overdose, sexual dysfunction, fractures, myocardial infarction, constipation, and sleep-disordered breathing. Despite increasing awareness of the known harms of opioids, 259 million opioid prescriptions were still written in 2012."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 17,
+                            "question": "What is needed when there is unexplained weight loss?",
+                            "answers": [
+                                {
+                                    "text": "An urgent evaluation",
+                                    "answer_start": 552
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "When considering an opioid taper, monitor for conditions that may warrant evaluation and arrange primary care and/or emergency department follow-up when indicated. If a patient is taking more than their prescribed dosage of opioids or showing signs of aberrant behavior, before deciding to change therapy, look for \u201cred flags\u201d. The red flags are progressive numbness or weakness, progressive changes in bowel or bladder function, unexplained weight loss, history of internal malignancy that has not been re-staged, signs of/risk factors for infection. An urgent evaluation may be needed when there is progressive numbness or weakness. An urgent evaluation may be needed when there are progressive changes in bowel or bladder function. An urgent evaluation may be needed when there is unexplained weight loss. An urgent evaluation may be needed when there is a history of internal malignancy that has not been re-staged. An urgent evaluation may be needed when there are signs of/risk factors for infection. The signs of/risk factors for infection are fever, recent skin or urinary infection, immunosuppression, IV drug use."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 18,
+                            "question": "What to do if risks do not outweigh benefits of continuing OT?",
+                            "answers": [
+                                {
+                                    "text": "educate/re-educate on non-opioid management, self-management to improve function and quality of life, realistic expectations and limitations of medical treatment options, preferred treatment methods being non-pharmacotherapy and non-opioid pharmacotherapy, new information on risks and lack of benefits of long-term OT",
+                                    "answer_start": 908
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Module D is for patients currently on opioid therapy. For patients currently on OT, look for factors that would require immediate attention and possible discontinuation of OT due to unacceptable risk. If there are factors that would require immediate attention, then admit/provide treatment to stabilize, including opioid tapering or SUD treatment as indicated. If there are no factors that would require immediate attention, then obtain a biopsychosocial assessment. If prior medical records including current prescriber, prior and current UDT, PDMP are available for review, then review data and re-assess risks and benefits of continuing OT and consider strength and number of risk factors. If unavailable, then address factors related to incomplete data prior to prescribing. If risks outweigh benefits of continuing OT, then proceed to module C. If risks do not outweigh benefits of continuing OT, then educate/re-educate on non-opioid management, self-management to improve function and quality of life, realistic expectations and limitations of medical treatment options, preferred treatment methods being non-pharmacotherapy and non-opioid pharmacotherapy, new information on risks and lack of benefits of long-term OT. If there is presence of prescribed opioid dose>90 mg MEDD or combined sedating medication that increases risk of adverse events (e.g., benzodiazepine) or patient non-participation in a comprehensive pain care plan or other indications for tapering, then proceed to module C. Otherwise, reassess and optimize preferred non-opioid treatments for chronic pain (e.g., physical and psychological treatments) recognizing that the patient is willing to continue to engage in a comprehensive treatment plan including non-opioid treatments. If the patient is experiencing clear functional improvement with minimal risk, then continue OT using the following approach: shortest duration, using lowest effective dose, continual assessment of improvement in pain and functional status and adverse effects. Then proceed to follow-up frequently based on patient risk factors. Otherwise, proceed to module C. "
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 19,
+                            "question": "What are the benefits of continuing opioid therapy?",
+                            "answers": [
+                                {
+                                    "text": "modest short-term improvement in pain, possible short-term improvement in function",
+                                    "answer_start": 1028
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Factors requiring immediate attention and possible discontinuation are untreated SUD, unstable mental health disorder, medical condition that acutely increases opioid risks, other factors that acutely increase risk of overdose, acutely elevated suicide risk. Medical conditions that acutely increase opioid risks can be compromised or worsening cognitive or cardiopulmonary status. Other factors that acutely increase risk of overdose can be recent overdose, current sedation, recent motor vehicle accident. The risks of continuing opioid therapy are as follows: increase in all-cause mortality, increase risk of unintentional overdose death, increase risk of developing OUD, risk of developing or worsening depression, falls, fractures, sleep disordered breathing, worsening pain, motor vehicle accidents hypogonadism, prolonged pain, nausea, constipation, dry mouth, sedation, cognitive dysfunction, immune system dysfunction, reduction in function, reduction in quality of life. The benefits of continuing opioid therapy are modest short-term improvement in pain, possible short-term improvement in function. Some talking points for education and re-education for patients currently on OT are \u201cDoctors used to think that opioids were safe and effective when used for long periods of time to treat chronic pain.\u201d, \u201cNew information has taught us that long-term opioid use can lead to multiple problems including loss of pain relieving effects, increased pain, unintentional death, OUD, and problems with sleep, mood, hormonal dysfunction, and immune dysfunction,\u201d, \u201cWe now know that the best treatments for chronic pain are not opioids. The best treatments for chronic pain are non-drug treatments such as psychological therapies and rehabilitation therapies and non-opioid medications.\u201d."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 20,
+                            "question": "Tapering the opioid analgesic without providing OUD treatment may increase the risk of what?",
+                            "answers": [
+                                {
+                                    "text": "overdose and other adverse events",
+                                    "answer_start": 993
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Ensure screening and treatment is offered for conditions that can complicate pain management before initiating an opioid taper. Conditions that can complicate pain management are mental health disorders, OUD and other SUD, moral injury, central sensitization, medical complications, sleep disorders. Mental health disorders include PTSD, anxiety disorders, depressive disorders. If suicidal, then activate suicide prevention plan. If high suicide risk or actively suicidal, consult with mental health provider before beginning taper. The lifetime prevalence for OUD among patients receiving long-term opioid therapy is estimated to be about 41%: approximately 28% for mild symptoms, 10% for moderate symptoms and 3.5% for severe symptoms of OUD. Patients with chronic pain who develop OUD from opioid analgesic therapy need to have BOTH pain and OUD addressed. Either tapering the opioid analgesic or continuing to prescribe the opioid without providing OUD treatment may increase the risk of overdose and other adverse events."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 21,
+                            "question": "When reducing 16% of morphine SR 90 mg Q8h = 270 MEDD on week 1, what dose should be taken on week five of the faster opioid tapering?",
+                            "answers": [
+                                {
+                                    "text": "15 mg SR Q8h",
+                                    "answer_start": 420
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Faster Taper is done over weeks. In faster taper, reduce opioid by 10 to 20% every week.  An example of the faster taper is given below. During the first week in the faster taper, 16% reduction of morphine SR 90 mg Q8h = 270 MEDD consists of 75 mg SR Q8h. The subsequent weekly dosage for the faster taper is 60 mg SR (15 mg x 4) Q8h for week 2, 45 mg SR (15 mg x 3) Q8h for week 3, 30 mg SR (15 mg x 2) Q8h for week 4, 15 mg SR Q8h for week 5, 15 mg SR Q12h for week 6, 15 mg SR QHS x 7 days for week 7. Stop faster tapering after week 7 and may consider morphine IR 15 mg \u00bd tablet (7.5 mg) twice daily."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 22,
+                            "question": "What warranted a newly cautious approach to LOT that prioritizes safety?",
+                            "answers": [
+                                {
+                                    "text": "The accumulation of evidence of harms and the absence of evidence of long-term benefits",
+                                    "answer_start": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "The accumulation of evidence of harms and the absence of evidence of long-term benefits has warranted  a newly cautious approach to LOT that prioritizes safety. This approach coupled with the evidence of both the safety and efficacy for non-pharmacologic and non-opioid pharmacologic pain therapies has led to the  current transformation in the way in which pain is viewed and treated. The biopsychosocial model of pain recognizes pain as a complex multidimensional experience that requires multimodal and integrated care approaches. Within this context, non-pharmacologic treatments and non-opioid medications are the preferred treatments for chronic non-terminal pain. OT has a limited role, primarily in the treatment of severe acute pain, post-operative pain, and end-of-life pain.  "
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 23,
+                            "question": "When reducing 33% of morphine SR 90 mg Q8h = 270 MEDD on day 1, what dose should be taken on day five of the rapid opioid tapering?",
+                            "answers": [
+                                {
+                                    "text": "15 mg SR Q12h",
+                                    "answer_start": 947
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Rapid Taper is done over days. Rapid tapers can cause withdrawal effects and patients should be treated with adjunctive medications to minimize these effects; may need to consider admitting the patient for inpatient care. If patients are prescribed both long-acting and short-acting opioids, the decision about which formulation to be tapered first should be individualized based on medical history, mental health diagnoses, and patient preference. Data shows that overdose risk is greater with long-acting preparations. In rapid taper, reduce opioid by 20 to 50% of first dose if needed, then reduce by 10 to 20% every day. An example of the rapid taper is given below. During the first day in the rapid taper, 33% reduction of morphine SR 90 mg Q8h = 270 MEDD consists of 60 mg SR (15 mg x 4) Q8h. The subsequent daily dosage for the rapid taper is 45 mg SR (15 mg x 3) Q8h for day 2, 30 mg SR (15 mg x 2) Q8h for day 3, 15 mg SR Q8h for day 4, 15 mg SR Q12h for day 5-7, 15 mg SR QHS for day 8-11. Stop rapid tapering after day 11 and may consider morphine IR 15 mg \u00bd tablet (7.5 mg) twice daily."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 24,
+                            "question": "Self-management strategies are recommended as alternatives to what?",
+                            "answers": [
+                                {
+                                    "text": "opioid therapy",
+                                    "answer_start": 54
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "We strongly recommend against initiation of long-term opioid therapy for chronic pain. We recommend alternatives to opioid therapy such as self-management strategies and other non-pharmacological treatments. When pharmacologic therapies are used, we recommend non-opioids over opioids. If prescribing opioid therapy for patients with chronic pain, we recommend a short duration. Note: Consideration of opioid therapy beyond 90 days requires reevaluation and discussion with patient of risks and benefits."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 25,
+                            "question": "What should be done if an opioid thrapy is discontinued?",
+                            "answers": [
+                                {
+                                    "text": "plan",
+                                    "answer_start": 127
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Opioids are not first-line or routine therapy for chronic pain. Establish treatment goals before starting opioid therapy and a plan if therapy is discontinued. Only continue opioid if there is clinically meaningful improvement in pain and function. Discuss risks, benefits and responsibilities for managing therapy before starting and during treatment."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 26,
+                            "question": "What needs to be addressed at the time of opioid tapering?",
+                            "answers": [
+                                {
+                                    "text": "concerns that may negatively impact taper",
+                                    "answer_start": 395
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "When safety allows, a gradual taper rate (5-10% reduction every 4 weeks) allows time for neurobiological, psychological, and behavioral adaptations. When there are concerns regarding risks of tapering (e.g., unmasked OUD, exacerbation of underlying mental health conditions) consider interdisciplinary services that may include mental health, SUD, primary care, and specialty pain care. Address concerns that may negatively impact taper (e.g., inability for adequate follow-up, inability to provide adequate treatment for co-occurring medical and mental health conditions and SUD). Patient and treatment characteristics to consider when determining tapering strategy are opioid dose, duration of therapy, type of opioid formulation, psychiatric, medical and SUD comorbidities and other patient risk factors. Other patient risk factors include non-adherence, high-risk medication-related behavior, strength of social support, and coping."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 27,
+                            "question": "What can be caused by rapid taper?",
+                            "answers": [
+                                {
+                                    "text": "withdrawal effects",
+                                    "answer_start": 54
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Rapid Taper is done over days. Rapid tapers can cause withdrawal effects and patients should be treated with adjunctive medications to minimize these effects; may need to consider admitting the patient for inpatient care. If patients are prescribed both long-acting and short-acting opioids, the decision about which formulation to be tapered first should be individualized based on medical history, mental health diagnoses, and patient preference. Data shows that overdose risk is greater with long-acting preparations. In rapid taper, reduce opioid by 20 to 50% of first dose if needed, then reduce by 10 to 20% every day. An example of the rapid taper is given below. During the first day in the rapid taper, 33% reduction of morphine SR 90 mg Q8h = 270 MEDD consists of 60 mg SR (15 mg x 4) Q8h. The subsequent daily dosage for the rapid taper is 45 mg SR (15 mg x 3) Q8h for day 2, 30 mg SR (15 mg x 2) Q8h for day 3, 15 mg SR Q8h for day 4, 15 mg SR Q12h for day 5-7, 15 mg SR QHS for day 8-11. Stop rapid tapering after day 11 and may consider morphine IR 15 mg \u00bd tablet (7.5 mg) twice daily."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 28,
+                            "question": "What to follow up or review during opioid therapy?",
+                            "answers": [
+                                {
+                                    "text": "benefits and risks",
+                                    "answer_start": 198
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Use immediate-release (IR) opioids when starting therapy. Prescribe the lowest effective dose. When using opioids for acute pain, provide no more than needed for the condition. Follow up and review benefits and risks before starting and during therapy. If benefits do not outweigh harms, consider tapering opioids to lower doses or taper and discontinue."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 29,
+                            "question": "What was the outcome of the survey of patients prescribed opioids for chronic non-cancer pain (CNCP) and their family members?",
+                            "answers": [
+                                {
+                                    "text": "34% of patients reported that they thought they were \u201caddicted\u201d or \u201cdependent\u201d on opioid pain medication, 34% said that they used the medication for \u201cfun\u201d or to \u201cget high,\u201d while 22% used the medication to relieve day-to-day stress",
+                                    "answer_start": 806
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "The increase in opioid prescribing is matched by a parallel increase in morbidity, mortality, opioid-related  overdose death rates, and substance use disorders (SUD) treatment admissions from 1999 to 2008.  In 2009, drug overdose became the leading cause of injury-related death in the U.S., surpassing deaths from traffic accidents. In 2014, 1.9 million Americans were affected by an OUD related to non-medical  use of prescription pain relievers, and in the same year, 18,893 individuals died as a result of a  prescription drug overdose. There has been a four-fold increase in the absolute number of deaths  associated with use of opioids since 2000, and a 14% increase between 2013 and 2014 alone. In a survey of patients prescribed opioids for chronic non-cancer pain (CNCP) and their family members, 34% of patients reported that they thought they were \u201caddicted\u201d or \u201cdependent\u201d on opioid pain medication, 34% said that they used the medication for \u201cfun\u201d or to \u201cget high,\u201d while 22% used the medication to relieve day-to-day stress."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 30,
+                            "question": "What needs to be addressed for patients with chronic pain who develop OUD from opioid analgesic therapy?",
+                            "answers": [
+                                {
+                                    "text": "BOTH pain and OUD",
+                                    "answer_start": 832
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Ensure screening and treatment is offered for conditions that can complicate pain management before initiating an opioid taper. Conditions that can complicate pain management are mental health disorders, OUD and other SUD, moral injury, central sensitization, medical complications, sleep disorders. Mental health disorders include PTSD, anxiety disorders, depressive disorders. If suicidal, then activate suicide prevention plan. If high suicide risk or actively suicidal, consult with mental health provider before beginning taper. The lifetime prevalence for OUD among patients receiving long-term opioid therapy is estimated to be about 41%: approximately 28% for mild symptoms, 10% for moderate symptoms and 3.5% for severe symptoms of OUD. Patients with chronic pain who develop OUD from opioid analgesic therapy need to have BOTH pain and OUD addressed. Either tapering the opioid analgesic or continuing to prescribe the opioid without providing OUD treatment may increase the risk of overdose and other adverse events."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 31,
+                            "question": "What does UDT refer to?",
+                            "answers": [
+                                {
+                                    "text": "urine drug test",
+                                    "answer_start": 1251
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "The components of biopsychosocial assessment are pain assessment, patient functional goals, impact of pain on family, work, life, review of previous diagnostic studies, additional consultations and referrals, coexisting illness and treatments and effect on pain, significant psychological, social, or behavioral factors that may affect treatment, family history of chronic pain, collateral of family involvement, patient beliefs/knowledge of the cause of their pain and their treatment preferences along with the perceived efficacy of various treatment options. For patients already on OT, include assessment of psychological factors related to continuing vs. tapering OT. The psychological factors are beliefs, expectations, fears. Pain assessment includes history, physical exam, comorbidities, previous treatment and medications, duration of symptoms, onset and triggers. Examples of absolute contraindications to initiating opioid therapy for chronic pain are true life-threatening allergy to opioids, active SUD, elevated suicide risk, concomitant use of benzodiazepines. LOT refers to long-term opioid therapy; OT refers to opioid therapy; PDMP refers to Prescription Drug Monitoring Program; SUD refers to substance use disorder; UDT refers to urine drug test; VA/DoD Suicide CPG refers to VA/DoD Clinical Practice Guideline for the Assessment and Management of Patients at Risk for Suicide."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 32,
+                            "question": "For OUD therapy, methadone must be provided through what?",
+                            "answers": [
+                                {
+                                    "text": "a federally regulated opioid treatment program",
+                                    "answer_start": 367
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Use a shared decision-making approach to discuss options for OUD treatment. Medication-Assisted Therapy (MAT) is the first-line treatment for OUD. The preferred OUD treatment is Opioid Agonist Therapy (OAT). Opioid agonist treatment involves taking opioid agonist medications such as buprenorphine/naloxone (Suboxone) or methadone. Methadone must be provided through a federally regulated opioid treatment program for OUD therapy. The alternative OUD treatment is extended-release (ER) injectable naltrexone (Vivitrol). MAT can be provided in a variety of treatment settings including residential SUD treatment, intensive outpatient SUD treatment, regular SUD specialty care clinic, primary care or general mental health clinic, or federally regulated opioid treatment program. Moral injury is an act of transgression that leads to serious inner conflict typically brought on by betrayal, disproportionate violence, incidents involving civilians, within-rank violence. For moral injury, treatment via psychologists or chaplains is available. Central sensitization (e .g., fibromyalgia, chronic headaches, and likely many other types of complex chronic pain). Some examples of medical complications are lung disease, hepatic disease, renal disease, or fall risk. Sleep apnea is a sleep disorder."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 33,
+                            "question": "Which factors require immediate attention and possible discontinuation?",
+                            "answers": [
+                                {
+                                    "text": "untreated SUD, unstable mental health disorder, medical condition that acutely increases opioid risks, other factors that acutely increase risk of overdose, acutely elevated suicide risk",
+                                    "answer_start": 71
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Factors requiring immediate attention and possible discontinuation are untreated SUD, unstable mental health disorder, medical condition that acutely increases opioid risks, other factors that acutely increase risk of overdose, acutely elevated suicide risk. Medical conditions that acutely increase opioid risks can be compromised or worsening cognitive or cardiopulmonary status. Other factors that acutely increase risk of overdose can be recent overdose, current sedation, recent motor vehicle accident. The risks of continuing opioid therapy are as follows: increase in all-cause mortality, increase risk of unintentional overdose death, increase risk of developing OUD, risk of developing or worsening depression, falls, fractures, sleep disordered breathing, worsening pain, motor vehicle accidents hypogonadism, prolonged pain, nausea, constipation, dry mouth, sedation, cognitive dysfunction, immune system dysfunction, reduction in function, reduction in quality of life. The benefits of continuing opioid therapy are modest short-term improvement in pain, possible short-term improvement in function. Some talking points for education and re-education for patients currently on OT are \u201cDoctors used to think that opioids were safe and effective when used for long periods of time to treat chronic pain.\u201d, \u201cNew information has taught us that long-term opioid use can lead to multiple problems including loss of pain relieving effects, increased pain, unintentional death, OUD, and problems with sleep, mood, hormonal dysfunction, and immune dysfunction,\u201d, \u201cWe now know that the best treatments for chronic pain are not opioids. The best treatments for chronic pain are non-drug treatments such as psychological therapies and rehabilitation therapies and non-opioid medications.\u201d."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 34,
+                            "question": "What is MEDD?",
+                            "answers": [
+                                {
+                                    "text": "morphine equivalent daily dose",
+                                    "answer_start": 1624
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Necessary risk mitigation strategies are OEND, UDT, PDMP, face-to-face follow-up with frequency determined by risk. Indications for tapering and discontinuation are as follows: risks of OT outweigh benefits, patient preference, diversion. Risks of opioid therapy outweigh benefits when there is lack of clinically meaningful improvement in function, concomitant use of medications that increase risk of overdose, co-occurring medical or mental health conditions that increase risk, concerns about OUD or other SUD, patient con-compliance with opioid safety measures and opioid risk mitigation strategies, patient non-participation in a comprehensive pain care plan, prescribed dose higher than the maximal recommended dose, pain condition not effectively treated with opioids (e.g., back pain with normal MRI; fibromyalgia), medical or mental health comorbidities that increase risk, improvement in the underlying pain condition being treated, unmanageable side effects. Factors that may indicate need for more frequent follow-up are non-adherence to comprehensive pain care plan, unexpected UDT and PDMP results, non-adherence to opioid prescription, higher risk medication characteristics, patients with mental health, medical, or SUD comorbidities that increase risk for adverse outcomes. A factor that can help identify non-adherence to a comprehensive pain care plan can be attendance at appointments. Examples of non-adherence to opioid prescription include using more than prescribed and/or running out late. Higher risk medication can be high-dose opioids, combination of opioids and benzodiazepines. MEDD refers to morphine equivalent daily dose; MRI refers to magnetic resonance imaging; OEND refers to Overdose Education and Naloxone Distribution."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 35,
+                            "question": "The use of a CPG must always be considered as what?",
+                            "answers": [
+                                {
+                                    "text": "a recommendation, within the context of a provider\u2019s clinical judgment and patient values and preferences, in the care for an individual patient.",
+                                    "answer_start": 795
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "This guideline is not intended as a standard of care and should not be used as such. Standards of care are determined on the basis of all clinical data available for an individual case and are subject to change as scientific knowledge and technology advances and patterns evolve. Today there is variation among state regulations, and this guideline does not cover the variety of ever-changing state regulations that may be pertinent. The ultimate judgement regarding a particular clinical procedure or treatment course must be made by the individual clinician, in light of the patient\u2019s clinical presentation, patient preferences, and the available diagnostic and treatment options. As noted previously, the guideline can assist care providers, but the use of a CPG must always be considered as a recommendation, within the context of a provider\u2019s clinical judgment and patient values and preferences, in the care for an individual patient."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 36,
+                            "question": "Where to follow up with the Veteran during the slower taper?",
+                            "answers": [
+                                {
+                                    "text": "in the clinic and/or over telephone",
+                                    "answer_start": 819
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Follow-up for tapering should be done with PACT Team. Follow-up for tapering is recommended to be a team function with various team members taking on roles in which they have demonstrated specific competencies. Mental health practitioners may need to be included in the follow-up plan. During the slowest taper, follow up with the Veteran 1 to 4 weeks after starting taper then monthly before each reduction. During the slower taper, follow up with the Veteran 1 to 4 weeks after starting taper then monthly before each reduction. During the faster taper, follow up with the Veteran weekly before each dose reduction. During the rapid taper, follow up with the Veteran daily before each dose reduction or if available offer inpatient admission. The follow-up during the slowest, slower, and faster tapering can be done in the clinic and/or over telephone. The follow-up during the rapid tapering can be done in the hospital, clinic or over telephone. Providers will need to determine whether a telephone or in-clinic appointment is appropriate based on the risk category of the Veteran. A Veteran with high risk due to a medical condition may have decompensation during the taper and may require a clinic visit over telephone follow-up. If there are issues with the Veteran obtaining outside prescriptions or they are displaying other aberrant behaviors during the taper, providing follow-up in a clinic visit may be more optimal than a telephone visit. Follow up on patient function, pain intensity, sleep, physical activity, personal goals, and stress level."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 37,
+                            "question": "What is Module C about?",
+                            "answers": [
+                                {
+                                    "text": "tapering or discontinuation of opioid therapy",
+                                    "answer_start": 15
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Module C is on tapering or discontinuation of opioid therapy. If there is indication to taper to reduced dose or taper to discontinuation, repeat comprehensive biopsychosocial assessment. Then see if the patient demonstrates signs or symptoms of SUD. If the patient demonstrates signs or symptoms of SUD, then see whether the patient is willing to engage in SUD therapy. If the patient is willing to engage in SUD therapy, then access specialized SUD care with monitoring and follow-up appropriate for the patient\u2019s needs (e.g., MAT, treatment for comorbidities), see VA/DoD SUD CPG, exit algorithms and manage with non-opioid modalities. If the patient does not demonstrate signs or symptoms of SUD, then look for evidence of diversion. If there is evidence of diversion, then immediately discontinue opioid therapy. If there is  no evidence of diversion, then look for high risk or dangerous behavior. High risk or dangerous behavior includes overdose events, accidents, and threatening providers. If there is high risk or dangerous behavior or the patient is not willing to engage in SUD therapy or immediately after discontinuing OT, then address safety and misuse, assess for withdrawal symptoms and offer expedited taper, immediate discontinuation, or detox as indicated, continue to monitor for SUD and mental health comorbidities and offer treatment as indicated, exit algorithm and manage with non-opioid modalities. If there is no high risk or dangerous behavior, then develop an individualized tapering treatment plan (including pace of tapering, setting of care) based on patient and treatment characteristics. Follow-up 1 week to 1 month after each change in dosage and after discontinuation considering patient and treatment characteristics. At each interaction with patient, consider the following: educate on self-management and risks of OT, optimize whole person approach to pain care, optimize treatment of co-occurring mental health conditions, optimize non-opioid pain treatment modalities, reassess for OUD and readiness for OUD treatment as indicated. If the patient is resistant to taper or there is high risk or dangerous behaviors or there is an increase in patient distress, then repeat comprehensive biopsychosocial assessment. See if an SUD is identified. If an SUD is identified, then find out if the patient is willing to engage in SUD therapy. If an SUD is not identified and there is use of opioids to modulate emotions (i.e., \u201cchemical coping\u201d) or an untreated or undertreated psychiatric disorder, then engage the patient in appropriate behavioral and/or psychiatric treatment, ideally in an interdisciplinary setting. Consider reduced rate of taper or pause in taper for patients actively engaged in skills training. If the patient is fearful and/or anxious about taper and ability to function on lower dose or without opioids, then provide additional education about whole person pain care and LOT and reassurance that the patient will not be abandoned. Consider more frequent follow-up using the expanded care team, consider reduced rate of taper or pause in taper for patients actively engaged in skills training, reassess for OUD throughout the taper. Expanded care team includes registered nurse, clinical pharmacist, health coach, and mental health provider. If there is concern for diversion, then immediately discontinue opioid therapy. If there is no concern for diversion, then follow-up 1 week to 1 month after each change in dosage."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 38,
+                            "question": "What is LOT?",
+                            "answers": [
+                                {
+                                    "text": "long-term opioid therapy",
+                                    "answer_start": 1091
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "The components of biopsychosocial assessment are pain assessment, patient functional goals, impact of pain on family, work, life, review of previous diagnostic studies, additional consultations and referrals, coexisting illness and treatments and effect on pain, significant psychological, social, or behavioral factors that may affect treatment, family history of chronic pain, collateral of family involvement, patient beliefs/knowledge of the cause of their pain and their treatment preferences along with the perceived efficacy of various treatment options. For patients already on OT, include assessment of psychological factors related to continuing vs. tapering OT. The psychological factors are beliefs, expectations, fears. Pain assessment includes history, physical exam, comorbidities, previous treatment and medications, duration of symptoms, onset and triggers. Examples of absolute contraindications to initiating opioid therapy for chronic pain are true life-threatening allergy to opioids, active SUD, elevated suicide risk, concomitant use of benzodiazepines. LOT refers to long-term opioid therapy; OT refers to opioid therapy; PDMP refers to Prescription Drug Monitoring Program; SUD refers to substance use disorder; UDT refers to urine drug test; VA/DoD Suicide CPG refers to VA/DoD Clinical Practice Guideline for the Assessment and Management of Patients at Risk for Suicide."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 39,
+                            "question": "In which way the U.S. is in the midst of cultural transformation?",
+                            "answers": [
+                                {
+                                    "text": "in the way pain is viewed and treated",
+                                    "answer_start": 54
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "The U.S. is in the midst of a cultural transformation in the way pain is viewed and treated. The biomedical model of pain care, in which the pain experience is reduced to a pain generator and pain treatment is aimed at fixing or numbing pain with medications, interventions, or surgery, dominated the 1990s and the first decade of the 2000s. As the cost, potential harm, and limited effectiveness of the approach in the biomedical model of pain care to chronic pain was becoming apparent, the National Academy of Medicine issued a call for the transformation of pain care to a biopsychosocial, multimodal, interdisciplinary model."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 40,
+                            "question": "How much opioid to reduce in the faster taper?",
+                            "answers": [
+                                {
+                                    "text": "10 to 20% every week",
+                                    "answer_start": 67
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Faster Taper is done over weeks. In faster taper, reduce opioid by 10 to 20% every week.  An example of the faster taper is given below. During the first week in the faster taper, 16% reduction of morphine SR 90 mg Q8h = 270 MEDD consists of 75 mg SR Q8h. The subsequent weekly dosage for the faster taper is 60 mg SR (15 mg x 4) Q8h for week 2, 45 mg SR (15 mg x 3) Q8h for week 3, 30 mg SR (15 mg x 2) Q8h for week 4, 15 mg SR Q8h for week 5, 15 mg SR Q12h for week 6, 15 mg SR QHS x 7 days for week 7. Stop faster tapering after week 7 and may consider morphine IR 15 mg \u00bd tablet (7.5 mg) twice daily."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 41,
+                            "question": "What does the algorithm include?",
+                            "answers": [
+                                {
+                                    "text": "an ordered sequence of steps of care, recommended observations and examinations, decisions to be considered, actions to be taken",
+                                    "answer_start": 696
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "This CPG follows an algorithm that is designed to facilitate understanding of the clinical pathway and decision making process used in management of LOT. The use of the algorithm format as a way to represent patient management was chosen based on the understanding that such a format may promote more efficient diagnostic and therapeutic decision making and has the potential to change patterns of resource use. Although the Work Group recognizes that not all clinical practices are linear, the simplified linear approach depicted through the algorithm and its format allows the provider to assess the critical information needed at the major decision points in the clinical process. It includes an ordered sequence of steps of care, recommended observations and examinations, decisions to be considered, actions to be taken."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 42,
+                            "question": "What is the preferred OUD treatment?",
+                            "answers": [
+                                {
+                                    "text": "Opioid Agonist Therapy (OAT)",
+                                    "answer_start": 178
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Use a shared decision-making approach to discuss options for OUD treatment. Medication-Assisted Therapy (MAT) is the first-line treatment for OUD. The preferred OUD treatment is Opioid Agonist Therapy (OAT). Opioid agonist treatment involves taking opioid agonist medications such as buprenorphine/naloxone (Suboxone) or methadone. Methadone must be provided through a federally regulated opioid treatment program for OUD therapy. The alternative OUD treatment is extended-release (ER) injectable naltrexone (Vivitrol). MAT can be provided in a variety of treatment settings including residential SUD treatment, intensive outpatient SUD treatment, regular SUD specialty care clinic, primary care or general mental health clinic, or federally regulated opioid treatment program. Moral injury is an act of transgression that leads to serious inner conflict typically brought on by betrayal, disproportionate violence, incidents involving civilians, within-rank violence. For moral injury, treatment via psychologists or chaplains is available. Central sensitization (e .g., fibromyalgia, chronic headaches, and likely many other types of complex chronic pain). Some examples of medical complications are lung disease, hepatic disease, renal disease, or fall risk. Sleep apnea is a sleep disorder."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 43,
+                            "question": "What to review at each step in the taper?",
+                            "answers": [
+                                {
+                                    "text": "review the risk of the taper vs. the benefit of remaining at the current dose",
+                                    "answer_start": 1015
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Follow up in the first 1 to 4 weeks of taper. If Veteran feels supported and is adjusting to the dose reduction, continue the strategy of reducing to morphine SR 30 mg every 8 hours, follow up in 1 to 4 weeks to determine the next step in the taper. If Veteran strongly resists reduction, then request mental health support and consider the possibility of OUD. If the Veteran is resisting further dose reductions, explore the reason for the reluctance. The reasons for the reluctance can be medical (increased pain), mental health (worsening depression, anxiety, etc.), and substance use disorder (SUD)/opioid use disorder (OUD). Refer to OUD Provider Education Guide on VA PBM Academic Detailing SharePoint for more information. https://vaww.portal2.va.gov/sites/ad/SitePages/OUD.aspx . If safe, remain at morphine SR 45 mg every 8 hours for 1 to 2 months then reassess. If possible, the Veteran should be actively involved in skills training and/or have a comprehensive pain care plan. At each step in the taper, review the risk of the taper vs. the benefit of remaining at the current dose, and if necessary, adjust the speed of the taper according to the response of the Veteran."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 44,
+                            "question": "Consider reduced rate of taper or pause in taper for whom?",
+                            "answers": [
+                                {
+                                    "text": "patients actively engaged in skills training",
+                                    "answer_start": 2706
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Module C is on tapering or discontinuation of opioid therapy. If there is indication to taper to reduced dose or taper to discontinuation, repeat comprehensive biopsychosocial assessment. Then see if the patient demonstrates signs or symptoms of SUD. If the patient demonstrates signs or symptoms of SUD, then see whether the patient is willing to engage in SUD therapy. If the patient is willing to engage in SUD therapy, then access specialized SUD care with monitoring and follow-up appropriate for the patient\u2019s needs (e.g., MAT, treatment for comorbidities), see VA/DoD SUD CPG, exit algorithms and manage with non-opioid modalities. If the patient does not demonstrate signs or symptoms of SUD, then look for evidence of diversion. If there is evidence of diversion, then immediately discontinue opioid therapy. If there is  no evidence of diversion, then look for high risk or dangerous behavior. High risk or dangerous behavior includes overdose events, accidents, and threatening providers. If there is high risk or dangerous behavior or the patient is not willing to engage in SUD therapy or immediately after discontinuing OT, then address safety and misuse, assess for withdrawal symptoms and offer expedited taper, immediate discontinuation, or detox as indicated, continue to monitor for SUD and mental health comorbidities and offer treatment as indicated, exit algorithm and manage with non-opioid modalities. If there is no high risk or dangerous behavior, then develop an individualized tapering treatment plan (including pace of tapering, setting of care) based on patient and treatment characteristics. Follow-up 1 week to 1 month after each change in dosage and after discontinuation considering patient and treatment characteristics. At each interaction with patient, consider the following: educate on self-management and risks of OT, optimize whole person approach to pain care, optimize treatment of co-occurring mental health conditions, optimize non-opioid pain treatment modalities, reassess for OUD and readiness for OUD treatment as indicated. If the patient is resistant to taper or there is high risk or dangerous behaviors or there is an increase in patient distress, then repeat comprehensive biopsychosocial assessment. See if an SUD is identified. If an SUD is identified, then find out if the patient is willing to engage in SUD therapy. If an SUD is not identified and there is use of opioids to modulate emotions (i.e., \u201cchemical coping\u201d) or an untreated or undertreated psychiatric disorder, then engage the patient in appropriate behavioral and/or psychiatric treatment, ideally in an interdisciplinary setting. Consider reduced rate of taper or pause in taper for patients actively engaged in skills training. If the patient is fearful and/or anxious about taper and ability to function on lower dose or without opioids, then provide additional education about whole person pain care and LOT and reassurance that the patient will not be abandoned. Consider more frequent follow-up using the expanded care team, consider reduced rate of taper or pause in taper for patients actively engaged in skills training, reassess for OUD throughout the taper. Expanded care team includes registered nurse, clinical pharmacist, health coach, and mental health provider. If there is concern for diversion, then immediately discontinue opioid therapy. If there is no concern for diversion, then follow-up 1 week to 1 month after each change in dosage."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 45,
+                            "question": "What is not the intention of the guideline?",
+                            "answers": [
+                                {
+                                    "text": "define a standard of care ",
+                                    "answer_start": 244
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "The Department of Veterans Affairs and the Department of Defense guidelines are based upon the best information available at the time of publication. They are designed to provide information and assist decision making. They are not intended to define a standard of care and should not be construed as one. Neither should they be interpreted as prescribing an exclusive course of management."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 46,
+                            "question": "What can cause moral injury?",
+                            "answers": [
+                                {
+                                    "text": "betrayal, disproportionate violence, incidents involving civilians, within-rank violence",
+                                    "answer_start": 879
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Use a shared decision-making approach to discuss options for OUD treatment. Medication-Assisted Therapy (MAT) is the first-line treatment for OUD. The preferred OUD treatment is Opioid Agonist Therapy (OAT). Opioid agonist treatment involves taking opioid agonist medications such as buprenorphine/naloxone (Suboxone) or methadone. Methadone must be provided through a federally regulated opioid treatment program for OUD therapy. The alternative OUD treatment is extended-release (ER) injectable naltrexone (Vivitrol). MAT can be provided in a variety of treatment settings including residential SUD treatment, intensive outpatient SUD treatment, regular SUD specialty care clinic, primary care or general mental health clinic, or federally regulated opioid treatment program. Moral injury is an act of transgression that leads to serious inner conflict typically brought on by betrayal, disproportionate violence, incidents involving civilians, within-rank violence. For moral injury, treatment via psychologists or chaplains is available. Central sensitization (e .g., fibromyalgia, chronic headaches, and likely many other types of complex chronic pain). Some examples of medical complications are lung disease, hepatic disease, renal disease, or fall risk. Sleep apnea is a sleep disorder."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 47,
+                            "question": "When reducing 5% of morphine SR 90 mg Q8h = 270 MEDD, what dose should be taken on month three of the slowest opioid tapering?",
+                            "answers": [
+                                {
+                                    "text": "75 mg SR (60 mg+15 mg) Q8h",
+                                    "answer_start": 740
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Slowest taper is done over years. In the slowest taper, reduce opioid by 2 to 10% every 4 to 8 weeks with pauses in taper as needed. Consider the slowest taper for patients taking high doses of long-acting opioids for many years. An example of the slowest taper is given below. During the first month in the slowest taper, 5% reduction of morphine SR 90 mg Q8h = 270 MEDD consists of 90 mg SR qam, 75 mg for noon, 90 mg qpm. Continue the taper based on Veteran response. Pauses in the taper may allow the patient time to acquire new skills for management of pain and emotional distress while allowing for neurobiological equilibration. The subsequent monthly dosage for the slowest taper is 75 mg SR qam, 75 mg noon, 90 mg qpm for month 2; 75 mg SR (60 mg+15 mg) Q8h for month 3; 75 mg SR qam, 60 mg noon, 75 mg qpm for month 4; 60 mg SR qam, 60 mg noon, 75 mg qpm for month 5; 60 mg SR Q8h for month 6; 60 mg SR qam, 45 mg noon, 60 mg qpm for month 7; 45 mg SR qam, 45 mg noon, 60 mg qpm for month 8; 45 mg SR Q8h for month 9. Continue following this rate of taper until off the morphine or the desired dose of opioid is reached."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 48,
+                            "question": "What includes prior medical records?",
+                            "answers": [
+                                {
+                                    "text": "current prescriber, prior and current UDT, PDMP",
+                                    "answer_start": 503
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Module D is for patients currently on opioid therapy. For patients currently on OT, look for factors that would require immediate attention and possible discontinuation of OT due to unacceptable risk. If there are factors that would require immediate attention, then admit/provide treatment to stabilize, including opioid tapering or SUD treatment as indicated. If there are no factors that would require immediate attention, then obtain a biopsychosocial assessment. If prior medical records including current prescriber, prior and current UDT, PDMP are available for review, then review data and re-assess risks and benefits of continuing OT and consider strength and number of risk factors. If unavailable, then address factors related to incomplete data prior to prescribing. If risks outweigh benefits of continuing OT, then proceed to module C. If risks do not outweigh benefits of continuing OT, then educate/re-educate on non-opioid management, self-management to improve function and quality of life, realistic expectations and limitations of medical treatment options, preferred treatment methods being non-pharmacotherapy and non-opioid pharmacotherapy, new information on risks and lack of benefits of long-term OT. If there is presence of prescribed opioid dose>90 mg MEDD or combined sedating medication that increases risk of adverse events (e.g., benzodiazepine) or patient non-participation in a comprehensive pain care plan or other indications for tapering, then proceed to module C. Otherwise, reassess and optimize preferred non-opioid treatments for chronic pain (e.g., physical and psychological treatments) recognizing that the patient is willing to continue to engage in a comprehensive treatment plan including non-opioid treatments. If the patient is experiencing clear functional improvement with minimal risk, then continue OT using the following approach: shortest duration, using lowest effective dose, continual assessment of improvement in pain and functional status and adverse effects. Then proceed to follow-up frequently based on patient risk factors. Otherwise, proceed to module C. "
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 49,
+                            "question": "How is pain recognized by the biopsychosocial model of pain?",
+                            "answers": [
+                                {
+                                    "text": "as a complex multidimensional experience that requires multimodal and integrated care approaches",
+                                    "answer_start": 436
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "The accumulation of evidence of harms and the absence of evidence of long-term benefits has warranted  a newly cautious approach to LOT that prioritizes safety. This approach coupled with the evidence of both the safety and efficacy for non-pharmacologic and non-opioid pharmacologic pain therapies has led to the  current transformation in the way in which pain is viewed and treated. The biopsychosocial model of pain recognizes pain as a complex multidimensional experience that requires multimodal and integrated care approaches. Within this context, non-pharmacologic treatments and non-opioid medications are the preferred treatments for chronic non-terminal pain. OT has a limited role, primarily in the treatment of severe acute pain, post-operative pain, and end-of-life pain.  "
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 50,
+                            "question": "What to do when patient requests to discontinue therapy?",
+                            "answers": [
+                                {
+                                    "text": "Re-evaluate the risks and benefits of continuing opioid therapy",
+                                    "answer_start": 138
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Opioids are associated with many risks and it may be determined that they are not indicated for pain management for a particular Veteran. Re-evaluate the risks and benefits of continuing opioid therapy when there is no pain reduction, no improvement in function or patient requests to discontinue therapy, severe unmanageable adverse effects, dosage indicates high risk of adverse events, concerns related to an increased risk of SUD (Substance use disorder) (e.g., behaviors, age < 30, family history, personal history of SUD), an overdose event involving opioids, non-adherence to the treatment plan or unsafe behaviors. Examples of severe unmanageable adverse effects are drowsiness, constipation, and cognitive impairment. Examples of dosage that indicate high risk of adverse events are doses of 90 MEDD (Morphine equivalent daily dose) and higher. Examples of unsafe behaviors are early refills, lost/stolen prescription, buying or borrowing opioids, failure to obtain or aberrant UDT. "
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 51,
+                            "question": "What percentage of people entering SUD treatment for heroin use started using prescription opioids as their first opioid in the 2000s?",
+                            "answers": [
+                                {
+                                    "text": "75%",
+                                    "answer_start": 445
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Concurrent with the increase in prescription opioid use, the rate of heroin overdose deaths increased  nearly four-fold between 2000 and 2013. According to a survey of patients entering SUD treatment for  heroin use, the prescription opioid epidemic has resulted in a marked shift in how and which opioids are  abused. In the 1960s, 80% of people entering treatment for heroin use started using heroin as their first opioid, while in the 2000s, 75% of people entering treatment for heroin use started using prescription opioids as their first opioid. This increase in the use of opioids, as well as associated morbidity, mortality, and other adverse outcomes, has called attention to the need for a paradigm shift in pain and in the way it is treated. Consult the VA/DoD Clinical Practice Guideline for the Management of Substance Use Disorders (VA/DoD SUD CPG) for further information. "
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 52,
+                            "question": "Who can use this guideline?",
+                            "answers": [
+                                {
+                                    "text": "general clinicians or specialists",
+                                    "answer_start": 79
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "This guideline can be used in a variety of ways. This guideline can be used by general clinicians or specialists to study and consider the latest information on opioid therapy (OT) and how and whether to incorporate that information or recommendations into their practice. It can be used to provide specific information to guide a patient encounter, such as looking up the dosing of a medication used less frequently or the meaning of the urine drug testing (UDT) result. The section on tapering and its accompanying appendix can be used to assist in the development of a framework for guiding an individualized, informed discussion when tapering is being considered. Patients can examine the guideline to educate themselves and better understand their care. A health care system can use the CPG to assure that its clinicians and patients have the resources available to compassionately, effectively, and safely evaluate and deliver LOT in a timely, culturally sensitive manner. The guideline can also be used to suggest specific education for identified gaps. "
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 53,
+                            "question": "When is assessing suicide risk and intervening recommended?",
+                            "answers": [
+                                {
+                                    "text": "when considering initiating or continuing long-term opioid therapy",
+                                    "answer_start": 67
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "We recommend assessing suicide risk and intervening when necessary when considering initiating or continuing long-term opioid therapy. We recommend evaluating benefits of continued opioid therapy and risk for opioid-related adverse events at least every three months. If prescribing opioids, we recommend prescribing the lowest dose of opioids as indicated by patient-specific risks and benefits. Note: There is no absolutely safe dose of opioids. "
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 54,
+                            "question": "What to do if there is no high risk or dangerous behavior?",
+                            "answers": [
+                                {
+                                    "text": "develop an individualized tapering treatment plan (including pace of tapering, setting of care) based on patient and treatment characteristics",
+                                    "answer_start": 1479
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Module C is on tapering or discontinuation of opioid therapy. If there is indication to taper to reduced dose or taper to discontinuation, repeat comprehensive biopsychosocial assessment. Then see if the patient demonstrates signs or symptoms of SUD. If the patient demonstrates signs or symptoms of SUD, then see whether the patient is willing to engage in SUD therapy. If the patient is willing to engage in SUD therapy, then access specialized SUD care with monitoring and follow-up appropriate for the patient\u2019s needs (e.g., MAT, treatment for comorbidities), see VA/DoD SUD CPG, exit algorithms and manage with non-opioid modalities. If the patient does not demonstrate signs or symptoms of SUD, then look for evidence of diversion. If there is evidence of diversion, then immediately discontinue opioid therapy. If there is  no evidence of diversion, then look for high risk or dangerous behavior. High risk or dangerous behavior includes overdose events, accidents, and threatening providers. If there is high risk or dangerous behavior or the patient is not willing to engage in SUD therapy or immediately after discontinuing OT, then address safety and misuse, assess for withdrawal symptoms and offer expedited taper, immediate discontinuation, or detox as indicated, continue to monitor for SUD and mental health comorbidities and offer treatment as indicated, exit algorithm and manage with non-opioid modalities. If there is no high risk or dangerous behavior, then develop an individualized tapering treatment plan (including pace of tapering, setting of care) based on patient and treatment characteristics. Follow-up 1 week to 1 month after each change in dosage and after discontinuation considering patient and treatment characteristics. At each interaction with patient, consider the following: educate on self-management and risks of OT, optimize whole person approach to pain care, optimize treatment of co-occurring mental health conditions, optimize non-opioid pain treatment modalities, reassess for OUD and readiness for OUD treatment as indicated. If the patient is resistant to taper or there is high risk or dangerous behaviors or there is an increase in patient distress, then repeat comprehensive biopsychosocial assessment. See if an SUD is identified. If an SUD is identified, then find out if the patient is willing to engage in SUD therapy. If an SUD is not identified and there is use of opioids to modulate emotions (i.e., \u201cchemical coping\u201d) or an untreated or undertreated psychiatric disorder, then engage the patient in appropriate behavioral and/or psychiatric treatment, ideally in an interdisciplinary setting. Consider reduced rate of taper or pause in taper for patients actively engaged in skills training. If the patient is fearful and/or anxious about taper and ability to function on lower dose or without opioids, then provide additional education about whole person pain care and LOT and reassurance that the patient will not be abandoned. Consider more frequent follow-up using the expanded care team, consider reduced rate of taper or pause in taper for patients actively engaged in skills training, reassess for OUD throughout the taper. Expanded care team includes registered nurse, clinical pharmacist, health coach, and mental health provider. If there is concern for diversion, then immediately discontinue opioid therapy. If there is no concern for diversion, then follow-up 1 week to 1 month after each change in dosage."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 55,
+                            "question": "What is the role of OT in the treatment of severe acute pain, post-operative pain, and end-of-life pain?",
+                            "answers": [
+                                {
+                                    "text": "limited",
+                                    "answer_start": 680
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "The accumulation of evidence of harms and the absence of evidence of long-term benefits has warranted  a newly cautious approach to LOT that prioritizes safety. This approach coupled with the evidence of both the safety and efficacy for non-pharmacologic and non-opioid pharmacologic pain therapies has led to the  current transformation in the way in which pain is viewed and treated. The biopsychosocial model of pain recognizes pain as a complex multidimensional experience that requires multimodal and integrated care approaches. Within this context, non-pharmacologic treatments and non-opioid medications are the preferred treatments for chronic non-terminal pain. OT has a limited role, primarily in the treatment of severe acute pain, post-operative pain, and end-of-life pain.  "
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 56,
+                            "question": "What to follow up or review before starting opioid therapy?",
+                            "answers": [
+                                {
+                                    "text": "benefits and risks",
+                                    "answer_start": 198
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Use immediate-release (IR) opioids when starting therapy. Prescribe the lowest effective dose. When using opioids for acute pain, provide no more than needed for the condition. Follow up and review benefits and risks before starting and during therapy. If benefits do not outweigh harms, consider tapering opioids to lower doses or taper and discontinue."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 57,
+                            "question": "Which efforts led to an unprecedented increase in opioid prescribing for chronic non-terminal pain?",
+                            "answers": [
+                                {
+                                    "text": "Efforts to destigmatize the use of prescription opioids for chronic non-terminal pain",
+                                    "answer_start": 504
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "A paradigm shift in the use of OT for chronic non-terminal pain has paralleled this transformation in pain  care. Prior to the 1980s, OT was rarely used outside of severe acute injury or post-surgical pain, primarily due to concern for tolerance, physical dependence, and addiction. As the hospice and palliative care  movement began defining end-of-life care in the U.S. during the 1980s and emphasizing the importance of  pain relief, OT increasingly became a mainstay for cancer and end-of-life pain. Efforts to destigmatize the use of prescription opioids for chronic non-terminal pain encompassed primary care providers and the  public. The efforts led to an unprecedented increase in opioid prescribing for chronic non-terminal pain.  Chronic pain management became synonymous with LOT in the 1990s and the first decade of the 2000s  with significant numbers of patients in pain clinics receiving LOT. Despite the absence of long-term safety or efficacy data, OT for chronic non-terminal pain became a mainstay of therapy. However, as observational and epidemiologic data of harm from LOT accumulated, a much more cautious approach to  OT for chronic non-terminal pain has emerged in the decade of the 2010s."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 58,
+                            "question": "What was the basis for the Clinical Practice Guideline for Management of Opioid Therapy for Chronic Pain published in 2010?",
+                            "answers": [
+                                {
+                                    "text": "evidence reviewed through March 2009",
+                                    "answer_start": 150
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "In 2010, the VA and DoD published the Clinical Practice Guideline for Management of Opioid Therapy for Chronic Pain (2010 OT CPG), which was based on evidence reviewed through March 2009. Since the release of that guideline, there has been growing recognition of an epidemic of opioid misuse and opioid use disorder (OUD) in America, including among America\u2019s Veterans. At the same time, there is a mounting body of research expanding detailing the lack of benefit and severe harms of LOT."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 59,
+                            "question": "Which patient and treatment characteristics should be considered when determining tapering strategy?",
+                            "answers": [
+                                {
+                                    "text": "opioid dose, duration of therapy, type of opioid formulation, psychiatric, medical and SUD comorbidities and other patient risk factors",
+                                    "answer_start": 671
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "When safety allows, a gradual taper rate (5-10% reduction every 4 weeks) allows time for neurobiological, psychological, and behavioral adaptations. When there are concerns regarding risks of tapering (e.g., unmasked OUD, exacerbation of underlying mental health conditions) consider interdisciplinary services that may include mental health, SUD, primary care, and specialty pain care. Address concerns that may negatively impact taper (e.g., inability for adequate follow-up, inability to provide adequate treatment for co-occurring medical and mental health conditions and SUD). Patient and treatment characteristics to consider when determining tapering strategy are opioid dose, duration of therapy, type of opioid formulation, psychiatric, medical and SUD comorbidities and other patient risk factors. Other patient risk factors include non-adherence, high-risk medication-related behavior, strength of social support, and coping."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 60,
+                            "question": "What is the stance regarding prescribing long-acting opioids for acute pain?",
+                            "answers": [
+                                {
+                                    "text": "recommend against",
+                                    "answer_start": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "We recommend against opioid doses over 90 mg morphine equivalent daily dose for treating chronic pain. Note: For patients who are currently prescribed doses over 90 mg morphine equivalent daily dose, evaluate for tapering to reduced dose or to discontinuation. We recommend against prescribing long-acting opioids for acute pain, as an as-needed medication, or on initiation of long-term opioid therapy. "
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 61,
+                            "question": "What to assess for patients already on OT?",
+                            "answers": [
+                                {
+                                    "text": "psychological factors related to continuing vs. tapering OT",
+                                    "answer_start": 612
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "The components of biopsychosocial assessment are pain assessment, patient functional goals, impact of pain on family, work, life, review of previous diagnostic studies, additional consultations and referrals, coexisting illness and treatments and effect on pain, significant psychological, social, or behavioral factors that may affect treatment, family history of chronic pain, collateral of family involvement, patient beliefs/knowledge of the cause of their pain and their treatment preferences along with the perceived efficacy of various treatment options. For patients already on OT, include assessment of psychological factors related to continuing vs. tapering OT. The psychological factors are beliefs, expectations, fears. Pain assessment includes history, physical exam, comorbidities, previous treatment and medications, duration of symptoms, onset and triggers. Examples of absolute contraindications to initiating opioid therapy for chronic pain are true life-threatening allergy to opioids, active SUD, elevated suicide risk, concomitant use of benzodiazepines. LOT refers to long-term opioid therapy; OT refers to opioid therapy; PDMP refers to Prescription Drug Monitoring Program; SUD refers to substance use disorder; UDT refers to urine drug test; VA/DoD Suicide CPG refers to VA/DoD Clinical Practice Guideline for the Assessment and Management of Patients at Risk for Suicide."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 62,
+                            "question": "How long does it take for prolonged withdrawal symptoms to appear?",
+                            "answers": [
+                                {
+                                    "text": "weeks to months",
+                                    "answer_start": 785
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Short-term oral medications can be utilized to assist with managing the withdrawal symptoms, especially when prescribing fast tapers. Do not treat withdrawal symptoms with an opioid or benzodiazepine. Withdrawal symptoms are not life-threatening and may not be seen with a gradual taper. Early symptoms take hours to days to appear. Early symptoms include anxiety/restlessness, rapid short respirations, runny nose, tearing eyes, sweating, insomnia, and dilated reactive pupils. Late symptoms take days to weeks to appear. Late symptoms include runny nose, tearing eyes, rapid breathing, yawning, tremor, diffuse muscle spasms/aches, piloerection, nausea, vomiting, and diarrhea, abdominal pain, fever, chills, increased white blood cells if sudden withdrawal. Prolonged symptoms take weeks to months to appear. Prolonged symptoms include irritability, fatigue, bradycardia, decreased body temperature, craving, insomnia. Early symptoms generally resolve 5 to 10 days following opioid dose reduction/cessation but may take longer depending on the half-life of the opioid (e.g., methadone). Some symptoms of withdrawal such as dysphoria, insomnia and prolonged craving may take longer. Patients with chronic pain may find that symptoms, such as fatigue, mental functioning, pain, and well-being, improve over time."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 63,
+                            "question": "What are the risks associated with tapering?",
+                            "answers": [
+                                {
+                                    "text": "unmasked OUD, exacerbation of underlying mental health conditions",
+                                    "answer_start": 208
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "When safety allows, a gradual taper rate (5-10% reduction every 4 weeks) allows time for neurobiological, psychological, and behavioral adaptations. When there are concerns regarding risks of tapering (e.g., unmasked OUD, exacerbation of underlying mental health conditions) consider interdisciplinary services that may include mental health, SUD, primary care, and specialty pain care. Address concerns that may negatively impact taper (e.g., inability for adequate follow-up, inability to provide adequate treatment for co-occurring medical and mental health conditions and SUD). Patient and treatment characteristics to consider when determining tapering strategy are opioid dose, duration of therapy, type of opioid formulation, psychiatric, medical and SUD comorbidities and other patient risk factors. Other patient risk factors include non-adherence, high-risk medication-related behavior, strength of social support, and coping."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 64,
+                            "question": "What are the treatment options for anxiety, dysphoria, lacrimation, and rhinorrhea?",
+                            "answers": [
+                                {
+                                    "text": "hydroxyzine 25 to 50 mg three times a day as needed, diphenhydramine 25 mg every 6 hours as needed",
+                                    "answer_start": 78
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "The treatment options for anxiety, dysphoria, lacrimation, and rhinorrhea are hydroxyzine 25 to 50 mg three times a day as needed, diphenhydramine 25 mg every 6 hours as needed. Avoid diphenhydramine for Veterans older than 65 years. The treatment options for myalgias are NSAIDs (e.g., naproxen 375 to 500 mg twice daily or ibuprofen 400 to 600 mg four times daily), acetaminophen 650 mg every 6 hours as needed, topical medications like menthol/methylsalicylate cream, lidocaine cream/ointment. For NSAIDs, be cautious for patients with risk of GI bleed, renal compromise, cardiac disease. The treatment option for sleep disturbance is Trazodone 25 to 300 mg orally at bedtime."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 65,
+                            "question": "How to treat a moral injury?",
+                            "answers": [
+                                {
+                                    "text": "via psychologists or chaplains",
+                                    "answer_start": 997
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Use a shared decision-making approach to discuss options for OUD treatment. Medication-Assisted Therapy (MAT) is the first-line treatment for OUD. The preferred OUD treatment is Opioid Agonist Therapy (OAT). Opioid agonist treatment involves taking opioid agonist medications such as buprenorphine/naloxone (Suboxone) or methadone. Methadone must be provided through a federally regulated opioid treatment program for OUD therapy. The alternative OUD treatment is extended-release (ER) injectable naltrexone (Vivitrol). MAT can be provided in a variety of treatment settings including residential SUD treatment, intensive outpatient SUD treatment, regular SUD specialty care clinic, primary care or general mental health clinic, or federally regulated opioid treatment program. Moral injury is an act of transgression that leads to serious inner conflict typically brought on by betrayal, disproportionate violence, incidents involving civilians, within-rank violence. For moral injury, treatment via psychologists or chaplains is available. Central sensitization (e .g., fibromyalgia, chronic headaches, and likely many other types of complex chronic pain). Some examples of medical complications are lung disease, hepatic disease, renal disease, or fall risk. Sleep apnea is a sleep disorder."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 66,
+                            "question": "Continuing to prescribe the opioid without providing OUD treatment may increase the risk of what?",
+                            "answers": [
+                                {
+                                    "text": "overdose and other adverse events",
+                                    "answer_start": 993
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Ensure screening and treatment is offered for conditions that can complicate pain management before initiating an opioid taper. Conditions that can complicate pain management are mental health disorders, OUD and other SUD, moral injury, central sensitization, medical complications, sleep disorders. Mental health disorders include PTSD, anxiety disorders, depressive disorders. If suicidal, then activate suicide prevention plan. If high suicide risk or actively suicidal, consult with mental health provider before beginning taper. The lifetime prevalence for OUD among patients receiving long-term opioid therapy is estimated to be about 41%: approximately 28% for mild symptoms, 10% for moderate symptoms and 3.5% for severe symptoms of OUD. Patients with chronic pain who develop OUD from opioid analgesic therapy need to have BOTH pain and OUD addressed. Either tapering the opioid analgesic or continuing to prescribe the opioid without providing OUD treatment may increase the risk of overdose and other adverse events."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 67,
+                            "question": "How to minimize withdrawal effects in patients caused by rapid tapers?",
+                            "answers": [
+                                {
+                                    "text": "patients should be treated with adjunctive medications",
+                                    "answer_start": 77
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Rapid Taper is done over days. Rapid tapers can cause withdrawal effects and patients should be treated with adjunctive medications to minimize these effects; may need to consider admitting the patient for inpatient care. If patients are prescribed both long-acting and short-acting opioids, the decision about which formulation to be tapered first should be individualized based on medical history, mental health diagnoses, and patient preference. Data shows that overdose risk is greater with long-acting preparations. In rapid taper, reduce opioid by 20 to 50% of first dose if needed, then reduce by 10 to 20% every day. An example of the rapid taper is given below. During the first day in the rapid taper, 33% reduction of morphine SR 90 mg Q8h = 270 MEDD consists of 60 mg SR (15 mg x 4) Q8h. The subsequent daily dosage for the rapid taper is 45 mg SR (15 mg x 3) Q8h for day 2, 30 mg SR (15 mg x 2) Q8h for day 3, 15 mg SR Q8h for day 4, 15 mg SR Q12h for day 5-7, 15 mg SR QHS for day 8-11. Stop rapid tapering after day 11 and may consider morphine IR 15 mg \u00bd tablet (7.5 mg) twice daily."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 68,
+                            "question": "What are the treatment options for myalgias?",
+                            "answers": [
+                                {
+                                    "text": "NSAIDs (e.g., naproxen 375 to 500 mg twice daily or ibuprofen 400 to 600 mg four times daily), acetaminophen 650 mg every 6 hours as needed, topical medications like menthol/methylsalicylate cream, lidocaine cream/ointment",
+                                    "answer_start": 273
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "The treatment options for anxiety, dysphoria, lacrimation, and rhinorrhea are hydroxyzine 25 to 50 mg three times a day as needed, diphenhydramine 25 mg every 6 hours as needed. Avoid diphenhydramine for Veterans older than 65 years. The treatment options for myalgias are NSAIDs (e.g., naproxen 375 to 500 mg twice daily or ibuprofen 400 to 600 mg four times daily), acetaminophen 650 mg every 6 hours as needed, topical medications like menthol/methylsalicylate cream, lidocaine cream/ointment. For NSAIDs, be cautious for patients with risk of GI bleed, renal compromise, cardiac disease. The treatment option for sleep disturbance is Trazodone 25 to 300 mg orally at bedtime."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 69,
+                            "question": "What are opioid agonist medications?",
+                            "answers": [
+                                {
+                                    "text": "buprenorphine/naloxone (Suboxone) or methadone",
+                                    "answer_start": 284
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Use a shared decision-making approach to discuss options for OUD treatment. Medication-Assisted Therapy (MAT) is the first-line treatment for OUD. The preferred OUD treatment is Opioid Agonist Therapy (OAT). Opioid agonist treatment involves taking opioid agonist medications such as buprenorphine/naloxone (Suboxone) or methadone. Methadone must be provided through a federally regulated opioid treatment program for OUD therapy. The alternative OUD treatment is extended-release (ER) injectable naltrexone (Vivitrol). MAT can be provided in a variety of treatment settings including residential SUD treatment, intensive outpatient SUD treatment, regular SUD specialty care clinic, primary care or general mental health clinic, or federally regulated opioid treatment program. Moral injury is an act of transgression that leads to serious inner conflict typically brought on by betrayal, disproportionate violence, incidents involving civilians, within-rank violence. For moral injury, treatment via psychologists or chaplains is available. Central sensitization (e .g., fibromyalgia, chronic headaches, and likely many other types of complex chronic pain). Some examples of medical complications are lung disease, hepatic disease, renal disease, or fall risk. Sleep apnea is a sleep disorder."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 70,
+                            "question": "How to determine whether patient risks outweigh benefits?",
+                            "answers": [
+                                {
+                                    "text": "by considering strength and number of risk factors and patient preference",
+                                    "answer_start": 1025
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Module A is about determination of appropriateness for opioid therapy. Note: Non-pharmacologic and non-opioid pharmacologic therapies are preferred for chronic pain. If a patient is with chronic pain and has been on daily OT for pain for more than 3 months, then proceed to module D. If a patient is with chronic pain and has not been on daily OT for pain for more than 3 months, then obtain biopsychosocial assessment. Then educate or re-educate on non-opioid management, self-management to improve function and quality of life, realistic expectations and limitations of medical treatment. Then implement and optimize non-opioid treatments for chronic pain (e.g., physical, psychological, and complementary and integrative treatments). If the treatments are effective in managing pain and optimizing function, then exit algorithm; manage with non-opioid modalities. If the treatments are not effective in managing pain and optimizing function, then complete opioid risk assessment and see if patient risks outweigh benefits by considering strength and number of risk factors and patient preference. If patient risk outweighs benefits, then see whether referral/consultation for evaluation and treatment is indicated (e.g., mental health, SUD, more intensive interdisciplinary care). If referral/consultation for evaluation and treatment is indicated, then refer/consult with appropriate interdisciplinary treatments. If referral/consultation for evaluation and treatment is not indicated, then see if the patient is willing to engage in a comprehensive pain care plan. Also when referral/consultation for evaluation and treatment is indicated, then after referral/consultation with appropriate interdisciplinary treatments, see if the patient is willing to engage in a comprehensive pain care plan. If the patient is not willing to engage in a comprehensive pain care plan, then exit algorithm; manage with non-opioid modalities. If the patient is willing to engage in a comprehensive pain care plan, then educate the patient and family about treatment options, including education on known risks and unknown long-term benefits of OT, risks of SUD and overdose, need for risk mitigation strategies, naloxone rescue. Then see if adding OT to comprehensive pain therapy is indicated at this time. If adding OT to comprehensive pain therapy is indicated at this time, then see if the patient is prepared to accept responsibilities and the provider is prepared to implement risk mitigation strategies. If adding OT to comprehensive pain therapy is not indicated at this time, then exit algorithm; manage with non-opioid modalities. If the patient is prepared to accept responsibilities and the provider is prepared to implement risk mitigation strategies, then discuss and complete written informed consent with patient and family, determine and document treatment plan, and proceed to module B. If the patient is not prepared to accept responsibilities or the provider is not prepared to implement risk mitigation strategies, then exit algorithm; manage with non-opioid modalities."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 71,
+                            "question": "During the first month in the slower taper what does consist of 16% reduction of morphine SR 90 mg Q8h = 270 MEDD?",
+                            "answers": [
+                                {
+                                    "text": "75 mg (60 mg+15 mg)SR Q8h",
+                                    "answer_start": 336
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Slower Taper is done over months or years. In the slower taper, reduce opioid by 5 to 20% every 4 weeks with pauses in taper as needed. Slower taper is the most common taper.  An example of the slower taper is given below. During the first month in the slower taper, 16% opioid reduction of morphine SR 90 mg Q8h = 270 MEDD consists of 75 mg (60 mg+15 mg)SR Q8h. The subsequent monthly dosage for the slower taper is 60 mg SR Q8h for month 2, 45 mg SR Q8h for month 3, 30 mg SR Q8h for month 4, 15 mg SR Q8h for month 5, 15 mg SR Q12h for month 6, 15mg SR QHS for month 7. Stop slower tapering after month 7 and may consider morphine IR 15 mg \u00bd tablet (7.5 mg) twice daily."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 72,
+                            "question": "Alternatives to opioids are recommended for what?",
+                            "answers": [
+                                {
+                                    "text": "mild-to-moderate acute pain",
+                                    "answer_start": 41
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "We recommend alternatives to opioids for mild-to-moderate acute pain. We suggest use of multimodal pain care including non-opioid medications as indicated when opioids are used for acute pain. If take-home opioids are prescribed, we recommend that immediate-release opioids are used at the lowest effective dose with opioid therapy reassessment no later than 3-5 days to determine if adjustments or continuing opioid therapy is indicated. Note: Patient education about opioid risks and alternatives to opioid therapy should be offered."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 73,
+                            "question": "What is moral injury?",
+                            "answers": [
+                                {
+                                    "text": "an act of transgression that leads to serious inner conflict",
+                                    "answer_start": 794
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Use a shared decision-making approach to discuss options for OUD treatment. Medication-Assisted Therapy (MAT) is the first-line treatment for OUD. The preferred OUD treatment is Opioid Agonist Therapy (OAT). Opioid agonist treatment involves taking opioid agonist medications such as buprenorphine/naloxone (Suboxone) or methadone. Methadone must be provided through a federally regulated opioid treatment program for OUD therapy. The alternative OUD treatment is extended-release (ER) injectable naltrexone (Vivitrol). MAT can be provided in a variety of treatment settings including residential SUD treatment, intensive outpatient SUD treatment, regular SUD specialty care clinic, primary care or general mental health clinic, or federally regulated opioid treatment program. Moral injury is an act of transgression that leads to serious inner conflict typically brought on by betrayal, disproportionate violence, incidents involving civilians, within-rank violence. For moral injury, treatment via psychologists or chaplains is available. Central sensitization (e .g., fibromyalgia, chronic headaches, and likely many other types of complex chronic pain). Some examples of medical complications are lung disease, hepatic disease, renal disease, or fall risk. Sleep apnea is a sleep disorder."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 74,
+                            "question": "What to consider at each interaction with the patient?",
+                            "answers": [
+                                {
+                                    "text": "educate on self-management and risks of OT, optimize whole person approach to pain care, optimize treatment of co-occurring mental health conditions, optimize non-opioid pain treatment modalities, reassess for OUD and readiness for OUD treatment as indicated",
+                                    "answer_start": 1814
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Module C is on tapering or discontinuation of opioid therapy. If there is indication to taper to reduced dose or taper to discontinuation, repeat comprehensive biopsychosocial assessment. Then see if the patient demonstrates signs or symptoms of SUD. If the patient demonstrates signs or symptoms of SUD, then see whether the patient is willing to engage in SUD therapy. If the patient is willing to engage in SUD therapy, then access specialized SUD care with monitoring and follow-up appropriate for the patient\u2019s needs (e.g., MAT, treatment for comorbidities), see VA/DoD SUD CPG, exit algorithms and manage with non-opioid modalities. If the patient does not demonstrate signs or symptoms of SUD, then look for evidence of diversion. If there is evidence of diversion, then immediately discontinue opioid therapy. If there is  no evidence of diversion, then look for high risk or dangerous behavior. High risk or dangerous behavior includes overdose events, accidents, and threatening providers. If there is high risk or dangerous behavior or the patient is not willing to engage in SUD therapy or immediately after discontinuing OT, then address safety and misuse, assess for withdrawal symptoms and offer expedited taper, immediate discontinuation, or detox as indicated, continue to monitor for SUD and mental health comorbidities and offer treatment as indicated, exit algorithm and manage with non-opioid modalities. If there is no high risk or dangerous behavior, then develop an individualized tapering treatment plan (including pace of tapering, setting of care) based on patient and treatment characteristics. Follow-up 1 week to 1 month after each change in dosage and after discontinuation considering patient and treatment characteristics. At each interaction with patient, consider the following: educate on self-management and risks of OT, optimize whole person approach to pain care, optimize treatment of co-occurring mental health conditions, optimize non-opioid pain treatment modalities, reassess for OUD and readiness for OUD treatment as indicated. If the patient is resistant to taper or there is high risk or dangerous behaviors or there is an increase in patient distress, then repeat comprehensive biopsychosocial assessment. See if an SUD is identified. If an SUD is identified, then find out if the patient is willing to engage in SUD therapy. If an SUD is not identified and there is use of opioids to modulate emotions (i.e., \u201cchemical coping\u201d) or an untreated or undertreated psychiatric disorder, then engage the patient in appropriate behavioral and/or psychiatric treatment, ideally in an interdisciplinary setting. Consider reduced rate of taper or pause in taper for patients actively engaged in skills training. If the patient is fearful and/or anxious about taper and ability to function on lower dose or without opioids, then provide additional education about whole person pain care and LOT and reassurance that the patient will not be abandoned. Consider more frequent follow-up using the expanded care team, consider reduced rate of taper or pause in taper for patients actively engaged in skills training, reassess for OUD throughout the taper. Expanded care team includes registered nurse, clinical pharmacist, health coach, and mental health provider. If there is concern for diversion, then immediately discontinue opioid therapy. If there is no concern for diversion, then follow-up 1 week to 1 month after each change in dosage."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 75,
+                            "question": "What is the first-line treatment for OUD?",
+                            "answers": [
+                                {
+                                    "text": "Medication-Assisted Therapy (MAT)",
+                                    "answer_start": 76
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Use a shared decision-making approach to discuss options for OUD treatment. Medication-Assisted Therapy (MAT) is the first-line treatment for OUD. The preferred OUD treatment is Opioid Agonist Therapy (OAT). Opioid agonist treatment involves taking opioid agonist medications such as buprenorphine/naloxone (Suboxone) or methadone. Methadone must be provided through a federally regulated opioid treatment program for OUD therapy. The alternative OUD treatment is extended-release (ER) injectable naltrexone (Vivitrol). MAT can be provided in a variety of treatment settings including residential SUD treatment, intensive outpatient SUD treatment, regular SUD specialty care clinic, primary care or general mental health clinic, or federally regulated opioid treatment program. Moral injury is an act of transgression that leads to serious inner conflict typically brought on by betrayal, disproportionate violence, incidents involving civilians, within-rank violence. For moral injury, treatment via psychologists or chaplains is available. Central sensitization (e .g., fibromyalgia, chronic headaches, and likely many other types of complex chronic pain). Some examples of medical complications are lung disease, hepatic disease, renal disease, or fall risk. Sleep apnea is a sleep disorder."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 76,
+                            "question": "What do prolonged symptoms include?",
+                            "answers": [
+                                {
+                                    "text": "irritability, fatigue, bradycardia, decreased body temperature, craving, insomnia",
+                                    "answer_start": 839
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Short-term oral medications can be utilized to assist with managing the withdrawal symptoms, especially when prescribing fast tapers. Do not treat withdrawal symptoms with an opioid or benzodiazepine. Withdrawal symptoms are not life-threatening and may not be seen with a gradual taper. Early symptoms take hours to days to appear. Early symptoms include anxiety/restlessness, rapid short respirations, runny nose, tearing eyes, sweating, insomnia, and dilated reactive pupils. Late symptoms take days to weeks to appear. Late symptoms include runny nose, tearing eyes, rapid breathing, yawning, tremor, diffuse muscle spasms/aches, piloerection, nausea, vomiting, and diarrhea, abdominal pain, fever, chills, increased white blood cells if sudden withdrawal. Prolonged symptoms take weeks to months to appear. Prolonged symptoms include irritability, fatigue, bradycardia, decreased body temperature, craving, insomnia. Early symptoms generally resolve 5 to 10 days following opioid dose reduction/cessation but may take longer depending on the half-life of the opioid (e.g., methadone). Some symptoms of withdrawal such as dysphoria, insomnia and prolonged craving may take longer. Patients with chronic pain may find that symptoms, such as fatigue, mental functioning, pain, and well-being, improve over time."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 77,
+                            "question": "What to do when patients are displaying other aberrant behaviors during the taper?",
+                            "answers": [
+                                {
+                                    "text": "providing follow-up in a clinic visit may be more optimal than a telephone visit",
+                                    "answer_start": 1372
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Follow-up for tapering should be done with PACT Team. Follow-up for tapering is recommended to be a team function with various team members taking on roles in which they have demonstrated specific competencies. Mental health practitioners may need to be included in the follow-up plan. During the slowest taper, follow up with the Veteran 1 to 4 weeks after starting taper then monthly before each reduction. During the slower taper, follow up with the Veteran 1 to 4 weeks after starting taper then monthly before each reduction. During the faster taper, follow up with the Veteran weekly before each dose reduction. During the rapid taper, follow up with the Veteran daily before each dose reduction or if available offer inpatient admission. The follow-up during the slowest, slower, and faster tapering can be done in the clinic and/or over telephone. The follow-up during the rapid tapering can be done in the hospital, clinic or over telephone. Providers will need to determine whether a telephone or in-clinic appointment is appropriate based on the risk category of the Veteran. A Veteran with high risk due to a medical condition may have decompensation during the taper and may require a clinic visit over telephone follow-up. If there are issues with the Veteran obtaining outside prescriptions or they are displaying other aberrant behaviors during the taper, providing follow-up in a clinic visit may be more optimal than a telephone visit. Follow up on patient function, pain intensity, sleep, physical activity, personal goals, and stress level."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 78,
+                            "question": "What is the estimation of the lifetime prevalence for severe symptoms of OUD among patients receiving long-term opioid therapy?",
+                            "answers": [
+                                {
+                                    "text": "3.5%",
+                                    "answer_start": 713
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Ensure screening and treatment is offered for conditions that can complicate pain management before initiating an opioid taper. Conditions that can complicate pain management are mental health disorders, OUD and other SUD, moral injury, central sensitization, medical complications, sleep disorders. Mental health disorders include PTSD, anxiety disorders, depressive disorders. If suicidal, then activate suicide prevention plan. If high suicide risk or actively suicidal, consult with mental health provider before beginning taper. The lifetime prevalence for OUD among patients receiving long-term opioid therapy is estimated to be about 41%: approximately 28% for mild symptoms, 10% for moderate symptoms and 3.5% for severe symptoms of OUD. Patients with chronic pain who develop OUD from opioid analgesic therapy need to have BOTH pain and OUD addressed. Either tapering the opioid analgesic or continuing to prescribe the opioid without providing OUD treatment may increase the risk of overdose and other adverse events."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 79,
+                            "question": "Name the concerning factors regarding the use of OT prior to 1980s.",
+                            "answers": [
+                                {
+                                    "text": "tolerance, physical dependence, and addiction",
+                                    "answer_start": 236
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "A paradigm shift in the use of OT for chronic non-terminal pain has paralleled this transformation in pain  care. Prior to the 1980s, OT was rarely used outside of severe acute injury or post-surgical pain, primarily due to concern for tolerance, physical dependence, and addiction. As the hospice and palliative care  movement began defining end-of-life care in the U.S. during the 1980s and emphasizing the importance of  pain relief, OT increasingly became a mainstay for cancer and end-of-life pain. Efforts to destigmatize the use of prescription opioids for chronic non-terminal pain encompassed primary care providers and the  public. The efforts led to an unprecedented increase in opioid prescribing for chronic non-terminal pain.  Chronic pain management became synonymous with LOT in the 1990s and the first decade of the 2000s  with significant numbers of patients in pain clinics receiving LOT. Despite the absence of long-term safety or efficacy data, OT for chronic non-terminal pain became a mainstay of therapy. However, as observational and epidemiologic data of harm from LOT accumulated, a much more cautious approach to  OT for chronic non-terminal pain has emerged in the decade of the 2010s."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 80,
+                            "question": "What to do if suicide risk is high in patients?",
+                            "answers": [
+                                {
+                                    "text": "consult with mental health provider before beginning taper",
+                                    "answer_start": 474
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Ensure screening and treatment is offered for conditions that can complicate pain management before initiating an opioid taper. Conditions that can complicate pain management are mental health disorders, OUD and other SUD, moral injury, central sensitization, medical complications, sleep disorders. Mental health disorders include PTSD, anxiety disorders, depressive disorders. If suicidal, then activate suicide prevention plan. If high suicide risk or actively suicidal, consult with mental health provider before beginning taper. The lifetime prevalence for OUD among patients receiving long-term opioid therapy is estimated to be about 41%: approximately 28% for mild symptoms, 10% for moderate symptoms and 3.5% for severe symptoms of OUD. Patients with chronic pain who develop OUD from opioid analgesic therapy need to have BOTH pain and OUD addressed. Either tapering the opioid analgesic or continuing to prescribe the opioid without providing OUD treatment may increase the risk of overdose and other adverse events."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 81,
+                            "question": "What is the stance regarding the initiation of long-term opioid therapy for chronic pain?",
+                            "answers": [
+                                {
+                                    "text": "strongly recommend against",
+                                    "answer_start": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "We strongly recommend against initiation of long-term opioid therapy for chronic pain. We recommend alternatives to opioid therapy such as self-management strategies and other non-pharmacological treatments. When pharmacologic therapies are used, we recommend non-opioids over opioids. If prescribing opioid therapy for patients with chronic pain, we recommend a short duration. Note: Consideration of opioid therapy beyond 90 days requires reevaluation and discussion with patient of risks and benefits."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 82,
+                            "question": "What is CIH?",
+                            "answers": [
+                                {
+                                    "text": "Complementary and Integrative Health",
+                                    "answer_start": 287
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Educate the Veteran by using Bio-Psycho-Social Model e.g., PHI\u2019s \u201cWhole Health\u201d approach. Offer Veterans pain education groups [especially Cognitive Behavioral Therapy (CBT) or Acceptance and Commitment Therapy (ACT) for Pain, if available]. Clinicians should offer physical therapy and Complementary and Integrative Health (CIH) interventions such as acupuncture, meditation, yoga. Clinicians should offer slow tapering of opioids to reduce opioid risks while not \u201ccutting off\u201d the Veteran. Clinicians should offer non-opioid pain medications when appropriate. Clinicians should commit to working with the Veteran on other options for improved function and some decrease in pain."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 83,
+                            "question": "Name a sleep disorder.",
+                            "answers": [
+                                {
+                                    "text": "Sleep apnea",
+                                    "answer_start": 1262
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Use a shared decision-making approach to discuss options for OUD treatment. Medication-Assisted Therapy (MAT) is the first-line treatment for OUD. The preferred OUD treatment is Opioid Agonist Therapy (OAT). Opioid agonist treatment involves taking opioid agonist medications such as buprenorphine/naloxone (Suboxone) or methadone. Methadone must be provided through a federally regulated opioid treatment program for OUD therapy. The alternative OUD treatment is extended-release (ER) injectable naltrexone (Vivitrol). MAT can be provided in a variety of treatment settings including residential SUD treatment, intensive outpatient SUD treatment, regular SUD specialty care clinic, primary care or general mental health clinic, or federally regulated opioid treatment program. Moral injury is an act of transgression that leads to serious inner conflict typically brought on by betrayal, disproportionate violence, incidents involving civilians, within-rank violence. For moral injury, treatment via psychologists or chaplains is available. Central sensitization (e .g., fibromyalgia, chronic headaches, and likely many other types of complex chronic pain). Some examples of medical complications are lung disease, hepatic disease, renal disease, or fall risk. Sleep apnea is a sleep disorder."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 84,
+                            "question": "How has a much more cautious approach to OT for chronic non-terminal pain emerged?",
+                            "answers": [
+                                {
+                                    "text": "as observational and epidemiologic data of harm from LOT accumulated",
+                                    "answer_start": 1038
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "A paradigm shift in the use of OT for chronic non-terminal pain has paralleled this transformation in pain  care. Prior to the 1980s, OT was rarely used outside of severe acute injury or post-surgical pain, primarily due to concern for tolerance, physical dependence, and addiction. As the hospice and palliative care  movement began defining end-of-life care in the U.S. during the 1980s and emphasizing the importance of  pain relief, OT increasingly became a mainstay for cancer and end-of-life pain. Efforts to destigmatize the use of prescription opioids for chronic non-terminal pain encompassed primary care providers and the  public. The efforts led to an unprecedented increase in opioid prescribing for chronic non-terminal pain.  Chronic pain management became synonymous with LOT in the 1990s and the first decade of the 2000s  with significant numbers of patients in pain clinics receiving LOT. Despite the absence of long-term safety or efficacy data, OT for chronic non-terminal pain became a mainstay of therapy. However, as observational and epidemiologic data of harm from LOT accumulated, a much more cautious approach to  OT for chronic non-terminal pain has emerged in the decade of the 2010s."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 85,
+                            "question": "What to do when dosage indicates high risk of adverse events?",
+                            "answers": [
+                                {
+                                    "text": "Re-evaluate the risks and benefits of continuing opioid therapy",
+                                    "answer_start": 138
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Opioids are associated with many risks and it may be determined that they are not indicated for pain management for a particular Veteran. Re-evaluate the risks and benefits of continuing opioid therapy when there is no pain reduction, no improvement in function or patient requests to discontinue therapy, severe unmanageable adverse effects, dosage indicates high risk of adverse events, concerns related to an increased risk of SUD (Substance use disorder) (e.g., behaviors, age < 30, family history, personal history of SUD), an overdose event involving opioids, non-adherence to the treatment plan or unsafe behaviors. Examples of severe unmanageable adverse effects are drowsiness, constipation, and cognitive impairment. Examples of dosage that indicate high risk of adverse events are doses of 90 MEDD (Morphine equivalent daily dose) and higher. Examples of unsafe behaviors are early refills, lost/stolen prescription, buying or borrowing opioids, failure to obtain or aberrant UDT. "
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 86,
+                            "question": "From 1999 to 2008, what is increasing with the increment of opioid prescribing?",
+                            "answers": [
+                                {
+                                    "text": "morbidity, mortality, opioid-related  overdose death rates, and substance use disorders (SUD) treatment admissions",
+                                    "answer_start": 72
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "The increase in opioid prescribing is matched by a parallel increase in morbidity, mortality, opioid-related  overdose death rates, and substance use disorders (SUD) treatment admissions from 1999 to 2008.  In 2009, drug overdose became the leading cause of injury-related death in the U.S., surpassing deaths from traffic accidents. In 2014, 1.9 million Americans were affected by an OUD related to non-medical  use of prescription pain relievers, and in the same year, 18,893 individuals died as a result of a  prescription drug overdose. There has been a four-fold increase in the absolute number of deaths  associated with use of opioids since 2000, and a 14% increase between 2013 and 2014 alone. In a survey of patients prescribed opioids for chronic non-cancer pain (CNCP) and their family members, 34% of patients reported that they thought they were \u201caddicted\u201d or \u201cdependent\u201d on opioid pain medication, 34% said that they used the medication for \u201cfun\u201d or to \u201cget high,\u201d while 22% used the medication to relieve day-to-day stress."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 87,
+                            "question": "When are non-opioids recommended over opioids?",
+                            "answers": [
+                                {
+                                    "text": "When pharmacologic therapies are used",
+                                    "answer_start": 208
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "We strongly recommend against initiation of long-term opioid therapy for chronic pain. We recommend alternatives to opioid therapy such as self-management strategies and other non-pharmacological treatments. When pharmacologic therapies are used, we recommend non-opioids over opioids. If prescribing opioid therapy for patients with chronic pain, we recommend a short duration. Note: Consideration of opioid therapy beyond 90 days requires reevaluation and discussion with patient of risks and benefits."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 88,
+                            "question": "What is the purpose of Opioid Taper Decision Tool?",
+                            "answers": [
+                                {
+                                    "text": "assist Primary Care providers in determining if an opioid taper is necessary for a specific patient, in performing the taper, and in providing follow-up and support during the taper",
+                                    "answer_start": 46
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "The Opioid Taper Decision Tool is designed to assist Primary Care providers in determining if an opioid taper is necessary for a specific patient, in performing the taper, and in providing follow-up and support during the taper."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 89,
+                            "question": "When to consider tapering opioids to lower doses?",
+                            "answers": [
+                                {
+                                    "text": "If benefits do not outweigh harms",
+                                    "answer_start": 253
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Use immediate-release (IR) opioids when starting therapy. Prescribe the lowest effective dose. When using opioids for acute pain, provide no more than needed for the condition. Follow up and review benefits and risks before starting and during therapy. If benefits do not outweigh harms, consider tapering opioids to lower doses or taper and discontinue."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 90,
+                            "question": "What is LOT?",
+                            "answers": [
+                                {
+                                    "text": "long-term opioid therapy",
+                                    "answer_start": 694
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "The Department of Veterans Affairs (VA) and Department of Defense (DoD) Evidence-Based Practice Work Group (EBPWG) was established and first chartered in 2004, with a mission to advise the \u201c\u2026Health Executive Council on the use of clinical and epidemiological evidence to improve the health of the population across the Veterans Health Administration and Military Health System,\u201d by facilitating the development of clinical practice guidelines (CPGs) for the VA and DoD populations. This CPG is intended to provide healthcare providers with a framework by which to evaluate, treat, and manage the individual needs and preferences of patients with chronic pain who are on or being considered for long-term opioid therapy (LOT). "
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 91,
+                            "question": "What should be offered for patients with opioid use disorder?",
+                            "answers": [
+                                {
+                                    "text": "MAT (Medication-Assisted Treatment)",
+                                    "answer_start": 333
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Offer risk mitigation strategies, including naloxone for patients at risk for overdose.  Review PDMP (Prescription Drug Monitoring Program) data at least every 3 months and perform UDT (Urine Drug Testing) at least annually. Avoid prescribing opioid and benzodiazepines concurrently when possible. Clinicians should offer or arrange MAT (Medication-Assisted Treatment) for patients with OUD (Opioid Use Disorder)."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 92,
+                            "question": "What does the simplified linear approach depicted through the algorithm and its format allow?",
+                            "answers": [
+                                {
+                                    "text": "to assess the critical information needed at the major decision points in the clinical process",
+                                    "answer_start": 588
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "This CPG follows an algorithm that is designed to facilitate understanding of the clinical pathway and decision making process used in management of LOT. The use of the algorithm format as a way to represent patient management was chosen based on the understanding that such a format may promote more efficient diagnostic and therapeutic decision making and has the potential to change patterns of resource use. Although the Work Group recognizes that not all clinical practices are linear, the simplified linear approach depicted through the algorithm and its format allows the provider to assess the critical information needed at the major decision points in the clinical process. It includes an ordered sequence of steps of care, recommended observations and examinations, decisions to be considered, actions to be taken."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 93,
+                            "question": "What may be considered after stopping rapid tapering after day 11?",
+                            "answers": [
+                                {
+                                    "text": "morphine IR 15 mg \u00bd tablet (7.5 mg) twice daily",
+                                    "answer_start": 1051
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Rapid Taper is done over days. Rapid tapers can cause withdrawal effects and patients should be treated with adjunctive medications to minimize these effects; may need to consider admitting the patient for inpatient care. If patients are prescribed both long-acting and short-acting opioids, the decision about which formulation to be tapered first should be individualized based on medical history, mental health diagnoses, and patient preference. Data shows that overdose risk is greater with long-acting preparations. In rapid taper, reduce opioid by 20 to 50% of first dose if needed, then reduce by 10 to 20% every day. An example of the rapid taper is given below. During the first day in the rapid taper, 33% reduction of morphine SR 90 mg Q8h = 270 MEDD consists of 60 mg SR (15 mg x 4) Q8h. The subsequent daily dosage for the rapid taper is 45 mg SR (15 mg x 3) Q8h for day 2, 30 mg SR (15 mg x 2) Q8h for day 3, 15 mg SR Q8h for day 4, 15 mg SR Q12h for day 5-7, 15 mg SR QHS for day 8-11. Stop rapid tapering after day 11 and may consider morphine IR 15 mg \u00bd tablet (7.5 mg) twice daily."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 94,
+                            "question": "When a decision is made to taper, what must be given to ensure that the Veteran does not feel abandoned?",
+                            "answers": [
+                                {
+                                    "text": "special attention",
+                                    "answer_start": 34
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "When a decision is made to taper, special attention must be given to ensure that the Veteran does not feel abandoned. Prior to any changes being made in opioid prescribing, a discussion should occur between the Veteran, family members/caregivers, and the provider either during a face-to-face appointment or on the telephone. The strategies that will help in the transition are discussion, asking about goals, educating the veteran. Discussion includes listening to the Veteran\u2019s story, letting the Veteran know that you believe that their pain is real, using Motivational Interviewing (MI) techniques to acknowledge the Veteran\u2019s fears about tapering. Include family members or other supporters in the discussion. Asking about goals includes drawing out their goals for life, having the Veteran fill out the PHI, asking how we can support them during the taper. The drawn-out life goals should not be just being pain-free. PHI is the Personal Health Inventory.  "
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 95,
+                            "question": "Which tapers may be required in certain instances like drug diversion?",
+                            "answers": [
+                                {
+                                    "text": "More rapid tapers",
+                                    "answer_start": 622
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "When formulating an opioid taper plan, determine if the initial goal is a dose reduction or complete discontinuation. If the initial goal is determined to be a dose reduction, subsequent regular reassessment may indicate that complete discontinuation is more suitable. Several factors go into the speed of the selected taper. Slower, more gradual tapers are often the most tolerable and can be completed over several months to years based on the opioid dose. The longer the duration of previous opioid therapy, the longer the taper may take. Most commonly, tapering will involve dose reduction of 5% to 20% every 4 weeks. More rapid tapers may be required in certain instances like drug diversion, illegal activities, or situations where the risks of continuing the opioid outweigh the risks of a rapid taper. Document the rationale for the opioid taper and the opioid taper schedule in the Veteran\u2019s medical record. Provide opioid overdose education and prescribe naloxone to patients at increased risk of overdose. Strongly caution patients that it takes as little as a week to lose their tolerance and that they are at risk of an overdose if they resume their original dose. Patients are at an increased risk of overdose during this process secondary to reduced tolerance to opioids and the availability of opioids and heroin in the community."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 96,
+                            "question": "For whom should the slowest taper be considered?",
+                            "answers": [
+                                {
+                                    "text": "patients taking high doses of long-acting opioids for many years",
+                                    "answer_start": 164
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Slowest taper is done over years. In the slowest taper, reduce opioid by 2 to 10% every 4 to 8 weeks with pauses in taper as needed. Consider the slowest taper for patients taking high doses of long-acting opioids for many years. An example of the slowest taper is given below. During the first month in the slowest taper, 5% reduction of morphine SR 90 mg Q8h = 270 MEDD consists of 90 mg SR qam, 75 mg for noon, 90 mg qpm. Continue the taper based on Veteran response. Pauses in the taper may allow the patient time to acquire new skills for management of pain and emotional distress while allowing for neurobiological equilibration. The subsequent monthly dosage for the slowest taper is 75 mg SR qam, 75 mg noon, 90 mg qpm for month 2; 75 mg SR (60 mg+15 mg) Q8h for month 3; 75 mg SR qam, 60 mg noon, 75 mg qpm for month 4; 60 mg SR qam, 60 mg noon, 75 mg qpm for month 5; 60 mg SR Q8h for month 6; 60 mg SR qam, 45 mg noon, 60 mg qpm for month 7; 45 mg SR qam, 45 mg noon, 60 mg qpm for month 8; 45 mg SR Q8h for month 9. Continue following this rate of taper until off the morphine or the desired dose of opioid is reached."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 97,
+                            "question": "When reducing 5% of morphine SR 90 mg Q8h = 270 MEDD, what dose should be taken on month six of the slowest opioid tapering?",
+                            "answers": [
+                                {
+                                    "text": "60 mg SR Q8h",
+                                    "answer_start": 878
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Slowest taper is done over years. In the slowest taper, reduce opioid by 2 to 10% every 4 to 8 weeks with pauses in taper as needed. Consider the slowest taper for patients taking high doses of long-acting opioids for many years. An example of the slowest taper is given below. During the first month in the slowest taper, 5% reduction of morphine SR 90 mg Q8h = 270 MEDD consists of 90 mg SR qam, 75 mg for noon, 90 mg qpm. Continue the taper based on Veteran response. Pauses in the taper may allow the patient time to acquire new skills for management of pain and emotional distress while allowing for neurobiological equilibration. The subsequent monthly dosage for the slowest taper is 75 mg SR qam, 75 mg noon, 90 mg qpm for month 2; 75 mg SR (60 mg+15 mg) Q8h for month 3; 75 mg SR qam, 60 mg noon, 75 mg qpm for month 4; 60 mg SR qam, 60 mg noon, 75 mg qpm for month 5; 60 mg SR Q8h for month 6; 60 mg SR qam, 45 mg noon, 60 mg qpm for month 7; 45 mg SR qam, 45 mg noon, 60 mg qpm for month 8; 45 mg SR Q8h for month 9. Continue following this rate of taper until off the morphine or the desired dose of opioid is reached."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 98,
+                            "question": "What is an example of Bio-Psycho-Social Model?",
+                            "answers": [
+                                {
+                                    "text": "PHI\u2019s \u201cWhole Health\u201d approach",
+                                    "answer_start": 59
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Educate the Veteran by using Bio-Psycho-Social Model e.g., PHI\u2019s \u201cWhole Health\u201d approach. Offer Veterans pain education groups [especially Cognitive Behavioral Therapy (CBT) or Acceptance and Commitment Therapy (ACT) for Pain, if available]. Clinicians should offer physical therapy and Complementary and Integrative Health (CIH) interventions such as acupuncture, meditation, yoga. Clinicians should offer slow tapering of opioids to reduce opioid risks while not \u201ccutting off\u201d the Veteran. Clinicians should offer non-opioid pain medications when appropriate. Clinicians should commit to working with the Veteran on other options for improved function and some decrease in pain."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": 99,
+                            "question": "When reducing 16% of morphine SR 90 mg Q8h = 270 MEDD on month 1, what dose should be taken on month two of the slower opioid tapering?",
+                            "answers": [
+                                {
+                                    "text": "60 mg SR Q8h",
+                                    "answer_start": 417
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Slower Taper is done over months or years. In the slower taper, reduce opioid by 5 to 20% every 4 weeks with pauses in taper as needed. Slower taper is the most common taper.  An example of the slower taper is given below. During the first month in the slower taper, 16% opioid reduction of morphine SR 90 mg Q8h = 270 MEDD consists of 75 mg (60 mg+15 mg)SR Q8h. The subsequent monthly dosage for the slower taper is 60 mg SR Q8h for month 2, 45 mg SR Q8h for month 3, 30 mg SR Q8h for month 4, 15 mg SR Q8h for month 5, 15 mg SR Q12h for month 6, 15mg SR QHS for month 7. Stop slower tapering after month 7 and may consider morphine IR 15 mg \u00bd tablet (7.5 mg) twice daily."
+                }
+            ],
+            "title": null
+        }
+    ],
+    "version": 1.0
+}
