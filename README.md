@@ -16,4 +16,4 @@ Creating more QA pairs and contexts using resource 2 is work-in-progress ...
 Current Data Stats:
 
   * SQuAD has 1204 contexts and 11873 QA pairs in the dev dataset. The ratio of `QA pairs to contexts` in SQuAD is ~10
-  * As of now, the ratio of `QA pairs to contexts` in OTQuAD is ~11.
+  * As of now, the ratio of `QA pairs to contexts` in OTQuAD is ~7.

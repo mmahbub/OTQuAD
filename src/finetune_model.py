@@ -78,7 +78,7 @@ def load_and_cache_examples(args, tokenizer, evaluate=False, output_examples=Fal
             "dev" if evaluate else "train",
             list(filter(None, args.orig_model_name_or_path.split("/"))).pop(),
             str(args.max_seq_length),
-            "train" if args.do_train else "test",
+            "test" if evaluate else "train",
             args.dataset_name,
         ),
     )
