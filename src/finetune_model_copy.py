@@ -14,7 +14,7 @@ import os
 import random
 import timeit
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "2" 
+os.environ["CUDA_VISIBLE_DEVICES"] = "1" 
 
 import numpy as np
 import pandas as pd

@@ -14,7 +14,7 @@ import os
 import random
 import timeit
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "2" 
+os.environ["CUDA_VISIBLE_DEVICES"] = "3" 
 
 import numpy as np
 import pandas as pd
@@ -331,19 +331,19 @@ def train(args, train_dataset, model, tokenizer):
             train_iterator.close()
             break
 
-#         result = evaluate(args, model, tokenizer, prefix=args.dataset_name)
-#         em_list.append(list(result.values())[0])
-#         f1_list.append(list(result.values())[1])
+        result = evaluate(args, model, tokenizer, prefix=args.dataset_name)
+        em_list.append(list(result.values())[0])
+        f1_list.append(list(result.values())[1])
 
     if not os.path.exists(args.output_model_dir):
         os.makedirs(args.output_model_dir)
         
-#     file1 = open(args.output_model_dir+f'em.txt', 'w')
-#     file1.write(f'{em_list}')
-#     file1.close()
-#     file2 = open(args.output_model_dir+f'f1.txt', 'w')
-#     file2.write(f'{f1_list}')
-#     file2.close()
+    file1 = open(args.output_model_dir+f'em.txt', 'w')
+    file1.write(f'{em_list}')
+    file1.close()
+    file2 = open(args.output_model_dir+f'f1.txt', 'w')
+    file2.write(f'{f1_list}')
+    file2.close()
             
     if args.local_rank in [-1, 0]:
         tb_writer.close()
@@ -942,21 +942,21 @@ def main():
 
         logger.info("Evaluate the following checkpoints: %s", checkpoints)
 
-#         for checkpoint in checkpoints:
-#             # Reload the model
-#             global_step = checkpoint.split("-")[-1] if len(checkpoints) > 1 else ""
-#             model = AutoModelForQuestionAnswering.from_pretrained(checkpoint)  # , force_download=True)
-#             model.to(args.device)
+        for checkpoint in checkpoints:
+            # Reload the model
+            global_step = checkpoint.split("-")[-1] if len(checkpoints) > 1 else ""
+            model = AutoModelForQuestionAnswering.from_pretrained(checkpoint)  # , force_download=True)
+            model.to(args.device)
 
-#             # Evaluate
-#             result = evaluate(args, model, tokenizer, prefix=args.dataset_name)
+            # Evaluate
+            result = evaluate(args, model, tokenizer, prefix=args.dataset_name)
 
-#             result = dict((k + ("_{}".format(global_step) if global_step else ""), v) for k, v in result.items())
-#             results.update(result)
+            result = dict((k + ("_{}".format(global_step) if global_step else ""), v) for k, v in result.items())
+            results.update(result)
 
-#     logger.info("Results: {}".format(results))
+    logger.info("Results: {}".format(results))
 
-#     return results
+    return results
 
 
 if __name__ == "__main__":
