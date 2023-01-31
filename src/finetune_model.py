@@ -14,7 +14,7 @@ import os
 import random
 import timeit
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "2" 
+os.environ["CUDA_VISIBLE_DEVICES"] = "0" 
 
 import numpy as np
 import pandas as pd
@@ -725,7 +725,7 @@ def main():
     )
     parser.add_argument(
         "--max_answer_length",
-        default=30,
+        default=200,
         type=int,
         help="The maximum length of an answer that can be generated. This is needed because the start "
         "and end predictions are not conditioned on one another.",

@@ -145,7 +145,7 @@ def lda_gridsearch(vectors):
   plt.figure(figsize=(8, 7))
   mpl.rcParams['legend.frameon'] = 'True'
 
-  for lr in lr_decay[2:]:
+  for lr in lr_decay[:]:
     plt.plot(search_params['n_components'], lda_like[lr], "--", label=lr)
 
   plt.title("Choosing Optimal LDA Model", size=15)

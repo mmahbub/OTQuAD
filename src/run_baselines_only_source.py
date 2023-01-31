@@ -1,0 +1,3 @@
+import os
+
+os.system('python3 finetune_model.py --model_type biolinkbert --orig_model_name_or_path biolinkbert --model_name_or_path michiyasunaga/BioLinkBERT-base --output_dir /net/kdinxidk03/opt/NFS/75y/data/OTMRC_PAPER/ --output_model_dir /net/kdinxidk03/opt/NFS/75y/data/qa/output/biolinkbert-squad-new/ --data_dir /net/kdinxidk03/opt/NFS/75y/data/qa/dataset_pos/squad/ --train_file train_squad.json  --dataset_name squad --do_lower_case --do_train --max_seq_length 384 --doc_stride 128 --per_gpu_train_batch_size 24 --num_train_epochs 3.0 --learning_rate  3e-5 --overwrite_output_dir --overwrite_output_model_dir')
